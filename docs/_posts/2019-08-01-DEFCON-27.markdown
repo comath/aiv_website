@@ -1,0 +1,60 @@
+---
+layout: post
+title: AI Village @ DEF CON 27
+date: 2019-08-01 09:00:00 +0900
+category: events
+---
+
+<tbody><tr> <td> <bold>Day</bold> </td><td> Start Time </td><td> Length (Minutes) </td><td> Primary Speaker </td><td> Talk Title </td></tr>
+
+<tr> <td> Friday </td><td> 10:00 AM </td><td> 15 </td><td> AI Village Organizers </td><td> Opening Remarks</td></tr>
+
+<tr> <td> Friday </td><td> 10:15 AM </td><td> 30 </td><td> TBA </td><td> Misinformation Keynote</td></tr>
+
+<tr> <td> Friday </td><td> 10:45 AM </td><td> 30 </td><td> Siwei Lyu </td><td> Seeing is deceiving: The rise of AI-synthesized fake media </td></tr>
+
+<tr> <td> Friday </td><td> 11:15 AM </td><td> 45 </td><td> Lauren Putvin </td><td> Exploratory Data Analysis: Why and How (in Python)</td></tr>
+  
+<tr> <td> Friday </td><td> 12:00 PM </td><td> 45 </td><td> Jon Hawes </td><td> A 'buyers guide' to the market promise of automagic AI-enabled detection and response </td></tr>
+
+<tr> <td> Friday </td><td> 1:00 PM </td><td> 30 </td><td> Ryan Kovar, Dave Herrald, David Veuve </td><td> Network defenders in a data scientist world</td></tr>
+
+<tr> <td> Friday </td><td> 1:30 PM </td><td> 45 </td><td> Angelo Oliveira </td><td> Fighting Malware with Deep Learning</td></tr>
+
+<tr> <td> Friday </td><td> 2:15 PM </td><td> 30 </td><td> Yisroel Mirsky </td><td> Automated Injection &amp; Removal of Medical Evidence in CT and MRI Scans</td></tr>
+
+<tr> <td> Friday </td><td> 2:45 PM </td><td> 45 </td><td> Ethan Rudd </td><td> Loss Is More! Improving Malware Detectors by Learning Additional Tasks</td></tr>
+
+<tr> <td> Friday </td><td> 3:30 PM </td><td> 30 </td><td> Walter Scheirer </td><td> Backdooring Convolutional Neural Networks via Targeted Weight Perturbations</td></tr>
+
+<tr> <td> Friday </td><td> 4:00 PM </td><td> 30 </td><td> Roei Amit, Tal Leibovich </td><td> How to get over your malicious ex(tensions) using deep learning</td></tr>
+
+<tr> <td> Friday </td><td> 4:30 PM </td><td> 30 </td><td> Hyrum Anderson, Ryan Kovar </td><td> Competitions in Infosec/ML</td></tr>
+  
+<tr><td>Friday </td><td>5:00 PM</td><td>120</td><td>TBD</td><td>AI Unwind</td></tr>
+
+<tr> <td> Saturday </td><td> 10:00 AM </td><td> 45 </td><td> Rand Waltzman </td><td> MD: Multimedia Disinformation - Is there a Doctor in the House?!</td></tr>
+
+<tr> <td> Saturday </td><td> 10:45 AM </td><td> 45 </td><td> Jason Mancusco </td><td> Machine Learning's Privacy Problem</td></tr>
+
+<tr> <td> Saturday </td><td> 11:30 AM </td><td> 30 </td><td> Richard Harang, Ethan Rudd </td><td> A Tutorial on Hacking Facial Recognition Systems</td></tr>
+
+<tr> <td> Saturday </td><td> 1:30 PM </td><td> 30 </td><td> Kenya Yoshimura, Takahiro Yoshimura </td><td> Clairvoyance: concurrent lip-reading for the smart masses </td></tr>
+
+<tr> <td> Saturday </td><td> 2:00 PM </td><td> 30 </td><td> Barton Rhodes </td><td> Securing your kubeflow clusters</td></tr>
+
+<tr> <td> Saturday </td><td> 2:30 PM </td><td> 30 </td><td> Laurin Weissinger </td><td> AI vs. Airplanes and IT-Security: What Security Regulations Teach Us About AI Governance </td></tr>
+
+<tr> <td> Saturday </td><td> 3:00 PM </td><td> 30 </td><td> Anna Skelton </td><td> Deepfakes, Deep Trouble: Analyzing the Effects of Deepfakes on Market Manipulation </td></tr>
+
+<tr> <td> Saturday </td><td> 4:00 PM </td><td> 45 </td><td> Samantha Cole, Danielle Citron, Rumman Chowdhury, Brit Paris </td><td> Deep Fakes Panel</td></tr>
+
+<tr><td>Saturday </td><td>5:00 PM</td><td>120</td><td>TBD</td><td>AI Unwind</td></tr>
+  
+<tr> <td> Sunday </td><td> 10:00 AM </td><td> 30 </td><td> Jesus Solano, David Camacho </td><td> Behavioral Biometrics and Context Analytics: Risk Based Authentication Re-Imagined </td></tr>
+
+<tr> <td> Sunday </td><td> 10:30 AM </td><td> 45 </td><td> Tal Leibovich, Shimon Noam Oren </td><td> From Noisy, Distorted data-sets to excellent prediction models</td></tr>
+
+<tr> <td> Sunday </td><td> 11:15 AM </td><td> 45 </td><td> Vahid Behzadan </td><td> Faults in our Pi Stars: Security Issues and Challenges in Deep Reinforcement Learning </td></tr>
+
+</tbody></table></div>

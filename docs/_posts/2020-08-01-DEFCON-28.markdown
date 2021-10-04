@@ -1,0 +1,174 @@
+---
+layout: post
+title: AI Village @ DEF CON 28, Safe Mode
+date: 2020-08-01 09:00:00 +0900
+category: events
+---
+Fri, Aug 7, 2020 9:00 AM PST to Sun, Aug 9, 2020 4:00 PM PST
+
+<table>
+<colgroup span="4"></colgroup>
+<thead>
+<tr class="header">
+<th>Day</th>
+<th>Start Time</th>
+<th>Length (Minutes)</th>
+<th>Primary Speaker</th>
+<th>Talk Title</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">Friday</td>
+<td markdown="span">9:30 AM</td>
+<td markdown="span">30</td>
+<td markdown="span">AI Village Organizers</td>
+<td markdown="span">Opening Remark</td>
+</tr>
+<tr>
+<td markdown="span">Friday</td>
+<td markdown="span">10:00 AM</td>
+<td markdown="span">30   </td>
+<td markdown="span"> @zh4ck , @drhyrum</td>
+<td markdown="span">ML Security Evasion Competition 2020 </td>
+</tr>
+<tr>
+<td markdown="span">Friday</td>
+<td markdown="span">10:30 AM</td>
+<td markdown="span">30   </td>
+<td markdown="span"> @erickgalinkin</td>
+<td markdown="span">Baby's First 100 MLSec Words </td>
+</tr>
+<tr>
+<td markdown="span">Friday</td>
+<td markdown="span">11:00 AM</td>
+<td markdown="span">90   </td>
+<td markdown="span">TBD</td>
+<td markdown="span">TBD	Workshop 1 </td>
+</tr>
+<tr>
+<td markdown="span">Friday</td>
+<td markdown="span">1:00 PM</td>
+<td markdown="span">30</td>
+<td markdown="span">@comathematician</td>
+<td markdown="span">Hyperlocal Drift detection with Goko: Finding abusers of your Dataset </td>
+</tr>
+<tr>
+<td markdown="span">Friday</td>
+<td markdown="span">1:30 PM</td>
+<td markdown="span">30</td>
+<td markdown="span">Nahid Farhady</td>
+<td markdown="span">Spectrum: An End-to-End Framework for ML-based Threat Monitoring and Detection </td>
+</tr>
+<tr>
+<td markdown="span">Friday</td>
+<td markdown="span">2:00 PM</td>
+<td markdown="span">50</td>
+<td markdown="span">@GTKlondike</td>
+<td markdown="span">Hacking with Skynet - How AI is Empowering Adversaries </td>
+</tr>
+<tr>
+<td markdown="span">Friday</td>
+<td markdown="span">3:00 PM</td>
+<td markdown="span">60</td>
+<td markdown="span">N/A</td>
+<td markdown="span">Breakout Session </td>
+</tr>
+<tr>
+<td markdown="span">Friday</td>
+<td markdown="span">4:00 PM</td>
+<td markdown="span">90</td>
+<td markdown="span">TBD</td>
+<td markdown="span">Workshop 2 </td>
+</tr>
+<tr>
+<td markdown="span">Saturday</td>
+<td markdown="span">9:30 AM</td>
+<td markdown="span">30</td>
+<td markdown="span">Nahid Farhady</td>
+<td markdown="span">"SECRETS ARE LIES, SHARING IS CARING, PRIVACY IS THEFT."- A Dive into Privacy Preserving Machine Learning </td>
+</tr>
+<tr>
+<td markdown="span">Saturday</td>
+<td markdown="span">10:00 AM</td>
+<td markdown="span">30</td>
+<td markdown="span">@lmeyerov</td>
+<td markdown="span">Misinformation & Covid </td>
+</tr>
+<tr>
+<td markdown="span">Saturday</td>
+<td markdown="span">11:00 AM</td>
+<td markdown="span">90</td>
+<td markdown="span">TBD</td>
+<td markdown="span">Workshop 3 </td>
+</tr>
+<tr>
+<td markdown="span">Saturday</td>
+<td markdown="span">1:00 PM</td>
+<td markdown="span">60</td>
+<td markdown="span">AI</td>
+<td markdown="span">Village Journal Club	Journal Club Live! Fawkes Facial Recognition </td>
+</tr>
+<tr>
+<td markdown="span">Saturday</td>
+<td markdown="span">2:00 PM</td>
+<td markdown="span">60</td>
+<td markdown="span">TBD</td>
+<td markdown="span">Does AI Live up to the Hype? </td>
+</tr>
+<tr>
+<td markdown="span">Saturday</td>
+<td markdown="span">3:00 PM</td>
+<td markdown="span">60</td>
+<td markdown="span">Everyone</td>
+<td markdown="span">Breakout Session </td>
+</tr>
+<tr>
+<td markdown="span">Saturday</td>
+<td markdown="span">4:00 PM</td>
+<td markdown="span">90</td>
+<td markdown="span">TBD</td>
+<td markdown="span">Workshop 4 </td>
+</tr>
+<tr>
+<td markdown="span">Sunday</td>
+<td markdown="span">9:00 AM</td>
+<td markdown="span">30</td>
+<td markdown="span">Younghoo Lee and Joshua Saxe</td>
+<td markdown="span">Detecting hand-crafted social engineering emails with a bleeding-edge neural language model </td>
+</tr>
+<tr>
+<td markdown="span">Sunday</td>
+<td markdown="span">10:00 AM</td>
+<td markdown="span">60</td>
+<td markdown="span">TBD</td>
+<td markdown="span">Journal Club Live! Summoning Demons: The Pursuit of Exploitable Bugs in Machine Learning </td>
+</tr>
+<tr>
+<td markdown="span">Sunday</td>
+<td markdown="span">1:00 PM</td>
+<td markdown="span">60</td>
+<td markdown="span">Vahid Behzadan</td>
+<td markdown="span">Faults in our Pi Stars: Security Issues and Challenges in Deep Reinforcement Learning </td>
+</tr>
+<tr>
+<td markdown="span">Sunday</td>
+<td markdown="span">2:00 PM</td>
+<td markdown="span">60</td>
+<td markdown="span">TBD</td>
+<td markdown="span">Ethics & Bias Panel </td>
+</tr>
+<tr>
+<td markdown="span">Sunday</td>
+<td markdown="span">3:30 PM</td>
+<td markdown="span">30</td>
+<td markdown="span">TBd</td>
+<td markdown="span">Closing Remarks </td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
