@@ -1,0 +1,52 @@
+
+John Doe:
+  name        : "John Doe"
+  bio         : "Professional Hacker"
+  avatar      : "/assets/images/default.jpeg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:billyric@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fas fa-globe"
+      url: "https://twitter.com/extravagantman"
+
+Sagar Samtani:
+  name        : "Sagar Samtani"
+  bio         : "Associate Professor at Indiana University Bloomington"
+  avatar      : "/assets/images/sagarsamtani.jpeg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "ssamtani@iu.edu"
+    - label: "Website"
+      icon: "fas fa-globe"
+      url: "https://sagarsamtani.com/"
+
+
+Sven Cattell:
+  name        : "Sven Cattell"
+  bio         : "Short bio (change this in _data/authors.yml)"
+  avatar      : "/assets/images/default.jpeg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "firstname.lastname@gmail.edu"
+    - label: "Website"
+      icon: "fas fa-globe"
+      url: "https://google.com/"
+
+Anita Nikolich:
+  name        : "Anita Nikolich"
+  bio         : "Short bio (change this in _data/authors.yml)"
+  avatar      : "/assets/images/default.jpeg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "firstname.lastname@gmail.edu"
+    - label: "Website"
+      icon: "fas fa-globe"
+      url: "https://google.com/"

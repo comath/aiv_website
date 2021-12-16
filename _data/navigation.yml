@@ -1,0 +1,14 @@
+main:
+  - title: "Our Events"
+    url: /events/
+  - title: "Hacker Journal Club"
+    url: /hacker-journal-club/
+  - title: "Press"
+    url: /press/
+  - title: "Leadership Team"
+    url: /leadership_team/
+  - title: "Conduct"
+    url: /conduct/
+  - title: "Discord Guide"
+    url: /discord/
+  
