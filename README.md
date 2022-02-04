@@ -1,18 +1,8 @@
 # SETUP
 ### Running the site locally
-I recommend beginning by forking my repository (https://github.com/csdevrie/aiv) and then cloning the repository to begin setup locally.  The site should be hosted in the gh-pages branch of the repository to be hosted on GitHub pages.
+I recommend beginning by forking my repository (https://github.com/aivillage/aiv) and then cloning the repository to begin setup locally.  The site should be hosted in the gh-pages branch of the repository to be hosted on GitHub pages.
 
-Once the site is cloned locally, cd into the directory of the site and run ```docker compose up``` and the site should be running locally at localhost:4000/aiv/.
-
-### Running the site on GitHub Pages
-To run on GitHub Pages, a few settings need to be changed in _config.yml.
-In Site Settings, change `url: "https://csdevrie.github.io"` to your GitHub account in the form of `url: "https://yourusername.github.io"`.
-
-Directly below that line, change `baseurl: "/aiv"` to the name of the repository so it is in the form `baseurl: "/yourrepo".` If you forked my repository, you likely won't need to change this because it will keep the same name.
-
-Lastly, in the footer section, change the url for Discord.  Where it currently says `url: "http://localhost:4000/aiv/discord/"`, this should be changed to the url of the site, which would be in the form url: "https://yourusername.github.io/yourrepo/discord/".  The reasoning for this is that you cannot use variables in the config file, but you can use them everywhere else in the site.  Elsewhere in the site you can dynamically set the file path with the exception of the config file where you set the footer links.
-
-With those changes made, push the changes to the gh-pages branch.  Now navigate to Settings->Pages on in the repo on github.com. Set the source to "gh-pages" branch and the folder to "/ (root)".  The site should now be running on GitHub Pages.
+Once the site is cloned locally, cd into the directory of the site and run ```docker run -p 4000:4000 -v $(pwd):/site bretfisher/jekyll-serve``` and the site should be running locally at localhost:4000/.
 
 # MAINTENANCE 
 ### Main Pages and Navigation

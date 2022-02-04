@@ -23,7 +23,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="AI Village">
 <meta property="og:title" content="Dimensionality and Adversarial Examples">
-<meta property="og:url" content="http://0.0.0.0:4000/aiv/adversarial%20ml/dimensionality-and-adversarial/">
+<meta property="og:url" content="http://0.0.0.0:4000/adversarial%20ml/dimensionality-and-adversarial/">
 
 
   <meta property="og:description" content="Welcome to AI Village’s series on adversarial examples. This will focus on image classification attacks as they are simpler to work with and this series is meant to explain the attacks to hackers who have an interest in data science. The underlying principles are the same for attacks against malware/spam/security classifiers, though the implementation varies. This post focuses on the core reason why adversarial examples work, the high dimensional space our data occupies.">
@@ -45,7 +45,7 @@
   
 
 
-<link rel="canonical" href="http://0.0.0.0:4000/aiv/adversarial%20ml/dimensionality-and-adversarial/">
+<link rel="canonical" href="http://0.0.0.0:4000/adversarial%20ml/dimensionality-and-adversarial/">
 
 
 
@@ -56,7 +56,7 @@
     
       "@type": "Person",
       "name": "AI Village",
-      "url": "http://0.0.0.0:4000/aiv/"
+      "url": "http://0.0.0.0:4000/"
     
   }
 </script>
@@ -80,7 +80,7 @@
 </script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="/aiv/assets/css/main.css">
+<link rel="stylesheet" href="/assets/css/main.css">
 <link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
 
@@ -114,22 +114,22 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-        <a class="site-title" href="/aiv/">
+        <a class="site-title" href="/">
           AI Village
           <span class="site-subtitle">DEF CON</span>
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/aiv/events/">Our Events</a>
+              <a href="/events/">Our Events</a>
             </li><li class="masthead__menu-item">
-              <a href="/aiv/hacker-journal-club/">Hacker Journal Club</a>
+              <a href="/hacker-journal-club/">Hacker Journal Club</a>
             </li><li class="masthead__menu-item">
-              <a href="/aiv/press/">Press</a>
+              <a href="/press/">Press</a>
             </li><li class="masthead__menu-item">
-              <a href="/aiv/leadership_team/">Leadership Team</a>
+              <a href="/leadership_team/">Leadership Team</a>
             </li><li class="masthead__menu-item">
-              <a href="/aiv/conduct/">Conduct</a>
+              <a href="/conduct/">Conduct</a>
             </li><li class="masthead__menu-item">
-              <a href="/aiv/discord/">Discord Guide</a>
+              <a href="/discord/">Discord Guide</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
@@ -159,7 +159,7 @@
   
     <div class="author__avatar">
       
-        <img src="/aiv/assets/images/default.jpeg" alt="Sven Cattell" itemprop="image">
+        <img src="/assets/images/default.jpeg" alt="Sven Cattell" itemprop="image">
       
     </div>
   
@@ -285,7 +285,7 @@ Posted by Sven Cattell on 01 May 2018
 
 <h3 id="toroidal-example">Toroidal Example</h3>
 
-<iframe src="http://0.0.0.0:4000/aiv/public/material/dimensionality_pointcloud.html" frameborder="0" marginwidth="0" marginheight="0" width="100%" height="500" scrolling="no"></iframe>
+<iframe src="http://0.0.0.0:4000//public/material/dimensionality_pointcloud.html" frameborder="0" marginwidth="0" marginheight="0" width="100%" height="500" scrolling="no"></iframe>
 
 <p>In the above example we’ve sampled our data from a torus with relatively little noise. This is a 2 dimensional surface embedded in 3 dimensions. So, locally we have 2 degrees of freedom to manipulate, giving us a 2 dimensional disk around our chosen point. If you hide the main torus you can see the little area around the disk approximates a plane, it’s pretty flat. What we can do to figure out the disk associated to the point is a local principal component analysis. That is we do a PCA on the nearest few hundred points. This will tell us which directions the local neighborhood varies most in.</p>
 
@@ -300,7 +300,7 @@ Posted by Sven Cattell on 01 May 2018
 <p>It’s basically impossible to visualize how these low dimensional spaces look, but think of the 20 adversarial directions as \(2^{20}\) “bad” combinations in the above combinatorial example. So the chance of hitting a bad combination is \(\frac{2^{20}}{2^{784}} = 2^{-764}\), or basically 0. The probability of randomly hitting these is incredibly low, but there are many adversarial generation techniques that could unveil them to an attacker. You don’t know what technique will be used to generate the adversarial sample and you don’t know if they have a new one that you don’t know about. So, the challenge is to train a deep learning system that doesn’t have any adversarial examples close to good data.</p>
 
 <h3 id="another-toroidal-example">Another Toroidal Example</h3>
-<iframe src="http://0.0.0.0:4000/aiv/public/material/adversarial_pointcloud.html" frameborder="0" marginwidth="0" marginheight="0" width="100%" height="500" scrolling="no"></iframe>
+<iframe src="http://0.0.0.0:4000//public/material/adversarial_pointcloud.html" frameborder="0" marginwidth="0" marginheight="0" width="100%" height="500" scrolling="no"></iframe>
 
 <p>This time if we look at a low dimensional example where we have 2 point clouds for 2 classes, a green class and a blue class. These two point clouds are all that the classifier ever saw while training. We’d hope that the classifier learns two tori, but that’s not what happens. Even in perfect <a href="https://arxiv.org/abs/1801.02774">conditions</a> the classifiers we use just don’t pay attention to the shape of the data very well. The adversarial examples (in red) near the point we’re interested in (indicated by the disk) form a 1 dimensional line, with a bit of noise. This could have been caused by many different artifacts in the interaction between the data and the classifier. Since there’s no data sampled from this area for training, there’s noting to correct the classifier when we input them. This is the low dimensional case, the data in the high dimensional case is far more sparse and there’s many more nooks and cranies for these adversarial examples to live.</p>
 
@@ -338,7 +338,7 @@ Posted by Sven Cattell on 01 May 2018
     
     <h2 class="archive__item-title no_toc" itemprop="headline">
       
-        <a href="/aiv/adversarial%20ml/optimization-fgsm/" rel="permalink">Gradient Attacks
+        <a href="/adversarial%20ml/optimization-fgsm/" rel="permalink">Gradient Attacks
 </a>
       
     </h2>
@@ -377,7 +377,7 @@ Posted by Sven Cattell on 01 May 2018
     
     <h2 class="archive__item-title no_toc" itemprop="headline">
       
-        <a href="/aiv/ethics/max-evil-sjterp/" rel="permalink">Max evil MLsec, why should you care?
+        <a href="/ethics/max-evil-sjterp/" rel="permalink">Max evil MLsec, why should you care?
 </a>
       
     </h2>
@@ -418,7 +418,7 @@ Posted by Sven Cattell on 01 May 2018
     
     <h2 class="archive__item-title no_toc" itemprop="headline">
       
-        <a href="/aiv/adversarial%20ml/dimensionality-and-adversarial/" rel="permalink">Dimensionality and Adversarial Examples
+        <a href="/adversarial%20ml/dimensionality-and-adversarial/" rel="permalink">Dimensionality and Adversarial Examples
 </a>
       
     </h2>
@@ -477,8 +477,6 @@ Posted by Sven Cattell on 01 May 2018
         
       
         
-          <li><a href="http://localhost:4000/aiv/discord/" rel="nofollow noopener noreferrer"><i class="fab fa-discord" aria-hidden="true"></i> Discord</a></li>
-        
       
         
       
@@ -496,13 +494,13 @@ Posted by Sven Cattell on 01 May 2018
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2021 AI Village. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2022 AI Village. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>
 
     
-  <script src="/aiv/assets/js/main.min.js"></script>
+  <script src="/assets/js/main.min.js"></script>
 
 
 
