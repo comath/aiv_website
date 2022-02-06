@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Press
-permalink: /press/
+title: Blog
+permalink: /blog/
 ---
 
