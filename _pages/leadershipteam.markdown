@@ -13,7 +13,7 @@ permalink: /leadership_team/
     <tr>
         <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" style="border-radius:50%;">
         <br>
-        <h3 style="margin:10px">John Seymore</h3>
+        <h3 style="margin:10px">John Seymour</h3>
         </td>
         <td>
         <strong>Affiliation:</strong>  Salesforce; University of Maryland, Baltimore County
