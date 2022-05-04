@@ -11,7 +11,7 @@ permalink: /leadership_team/
 <script src="script.js"></script>
 <table class="table">
     <tr>
-        <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" style="border-radius:50%;">
+        <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/315bed8c-cbf3-11ec-8cd5-0242ac140002_0033.png" style="border-radius:50%;">
         <br>
         <h3 style="margin:10px">John Seymour</h3>
         </td>
@@ -26,7 +26,7 @@ permalink: /leadership_team/
         </td>
     </tr>
     <tr>
-        <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" style="border-radius:50%;">
+        <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/315bed8c-cbf3-11ec-8cd5-0242ac140002_0090.png" style="border-radius:50%;">
         <br>
         <h3 style="margin:10px">Sven Cattell</h3>
         </td>
@@ -41,7 +41,7 @@ permalink: /leadership_team/
         </td>
     </tr>
     <tr>
-        <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" style="border-radius:50%;">
+        <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/sagarsamtani.jpeg" style="border-radius:50%;">
         <br>
         <h3 style="margin:10px">Sagar Samtani</h3>
         </td>
@@ -56,7 +56,7 @@ permalink: /leadership_team/
         </td>
     </tr>
     <tr>
-        <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" style="border-radius:50%;">
+        <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/315bed8c-cbf3-11ec-8cd5-0242ac140002_0011.png" style="border-radius:50%;">
         <br>
         <h3 style="margin:10px">Ariel Herbert-Voss</h3>
         </td>
@@ -71,7 +71,7 @@ permalink: /leadership_team/
         </td>
     </tr>
     <tr>
-        <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" style="border-radius:50%;">
+        <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/315bed8c-cbf3-11ec-8cd5-0242ac140002_0012.png" style="border-radius:50%;">
         <br>
         <h3 style="margin:10px">Anita Nikolich</h3>
         </td>
@@ -87,7 +87,7 @@ permalink: /leadership_team/
 ## Officers
 <table class="table">
     <tr>
-        <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" style="border-radius:50%;">
+        <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/315bed8c-cbf3-11ec-8cd5-0242ac140002_0033.png" style="border-radius:50%;">
         <br>
         <h3 style="margin:10px">John Doe</h3>
         </td>
@@ -106,7 +106,7 @@ permalink: /leadership_team/
         </td>
     </tr>
     <tr>
-        <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" style="border-radius:50%;">
+        <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/315bed8c-cbf3-11ec-8cd5-0242ac140002_0033.png" style="border-radius:50%;">
         <br>
         <h3 style="margin:10px">John Doe</h3>
         </td>
@@ -125,7 +125,7 @@ permalink: /leadership_team/
         </td>
     </tr>
     <tr>
-        <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" style="border-radius:50%;">
+        <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/315bed8c-cbf3-11ec-8cd5-0242ac140002_0033.png" style="border-radius:50%;">
         <br>
         <h3 style="margin:10px">John Doe</h3>
         </td>
