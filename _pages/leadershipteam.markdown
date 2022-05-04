@@ -31,7 +31,7 @@ permalink: /leadership_team/
         <h3 style="margin:10px">Sven Cattell</h3>
         </td>
         <td>
-        <strong>Affiliation:</strong>  Nbhd.ai
+        <strong>Affiliation:</strong> nbhd.ai
         <br>
         <strong>Expertise:</strong>  ML Defense, Geometric data analysis
         <br>
@@ -55,8 +55,35 @@ permalink: /leadership_team/
         
         </td>
     </tr>
-  </table>
+    <tr>
+        <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" style="border-radius:50%;">
+        <br>
+        <h3 style="margin:10px">Ariel Herbert-Voss</h3>
+        </td>
+        <td>
+        <strong>Affiliation:</strong>  Indiana University
+        <br>
+        <strong>Expertise:</strong>  ML Threat Detection
+        <br>
 
+        <strong>Bio:</strong> Ariel Herbert-Voss is a Senior Research Scientist at OpenAI working on breaking machine learning systems at the algorithmic level, and loves all things to do with malicious uses and abuses of AI. Ariel is a PhD student at Harvard University and periodically conducts trainings on practical adversarial machine learning.
+        
+        </td>
+    </tr>
+    <tr>
+        <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" style="border-radius:50%;">
+        <br>
+        <h3 style="margin:10px">Anita Nikolich</h3>
+        </td>
+        <td>
+        <strong>Affiliation:</strong>  Indiana University
+        <br>
+        <strong>Expertise:</strong>  ML Threat Detection
+        <!-- <br> <strong>Bio:</strong> -->       
+        </td>
+    </tr>
+  </table>
+<!-- 
 ## Officers
 <table class="table">
     <tr>
@@ -117,3 +144,4 @@ permalink: /leadership_team/
         </td>
     </tr>
   </table>
+-->
