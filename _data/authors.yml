@@ -29,8 +29,8 @@ Sagar Samtani:
 
 Sven Cattell:
   name        : "Sven Cattell"
-  bio         : "Short bio (change this in _data/authors.yml)"
-  avatar      : "/assets/images/default.jpeg"
+  bio         : "Blue Teams Math"
+  avatar      : "/assets/images/315bed8c-cbf3-11ec-8cd5-0242ac140002_0090.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

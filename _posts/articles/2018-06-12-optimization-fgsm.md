@@ -75,7 +75,7 @@ Lets step through this line by line. First we initialize the attack with the par
 
 Since this is an **untargeted** attack we primarily care about if the attack changed the label that the model assigns to that sample. In the gradient method's case we have the following results:
 
-<iframe src="../material/fgsm_images/gradient_method/index.html" frameborder="0" marginwidth="0" marginheight="0" width="100%" height="500" scrolling="no"></iframe>
+<iframe src="{{ site.url }}{{ site.baseurl }}/public/img/fgsm_images/gradient_method/index.html" frameborder="0" marginwidth="0" marginheight="0" width="100%" height="500" scrolling="no"></iframe>
 
 The three images are, the base classes, the modified classes, and 10 times the difference. In the center we show red for an unsuccessful attack and green for a successful one. 
 
@@ -98,7 +98,7 @@ x_adv = x_adv + self.epsilon*x_norm
 
 Lets see how well this works:
 
-<iframe src="../material/fgsm_images/normalized_gradient_method/index.html" frameborder="0" marginwidth="0" marginheight="0" width="100%" height="500" scrolling="no"></iframe>
+<iframe src="{{ site.url }}{{ site.baseurl }}/public/img/fgsm_images/normalized_gradient_method/index.html" frameborder="0" marginwidth="0" marginheight="0" width="100%" height="500" scrolling="no"></iframe>
 
 This clearly enjoys a much greater success rate! We move much further. We also move exactly $$\epsilon$$ away from the original, so in competitions where the challenge is to minimize the distance between the normal and adversarial points, we can directly tune this parameter. However it is also the only thing we can tune, so there may be a better way. 
 
@@ -108,13 +108,13 @@ The final modification of the gradient method is inspired by the $$L_\infty$$ no
 
 Looking back at the normalized gradient method, we can think of it as moving as far as possible in the "best" direction. We've taken a greedy guess at the best direction with the gradient, there might be a better direction that's not the same as the gradient. We then take the biggest step possible, while staying inside the sphere of radius $$\epsilon$$. This process happens in a high dimensional sphere, but it's not too different from the low dimensional one.
 
-<img src="../material/fgsm_images/l2constraint.png" height="500" margin-left="auto" margin-right="auto" alt="Spherical Constraint">
+<img src="{{ site.url }}{{ site.baseurl }}/public/img/fgsm_images/l2constraint.png" height="500" margin-left="auto" margin-right="auto" alt="Spherical Constraint">
 
 The gradient in this image is the black arrow, the adversarial step is the green one, and the quantity of red is the height of the loss function. We can see that we've stepped right to the border. However there's darker, higher loss areas just outside of the circle.
 
 For $$L_\infty$$ we can move further, we are constrained by a high dimensional cube with side lengths $$2\epsilon$$ instead of a sphere of radius $$\epsilon$$. The corners of the cube are much further out than the surface of the sphere. To see this we can look at the same situation as above, but with a square instead of a circle.
 
-<img src="../material/fgsm_images/l_inty_constraint.png" height="500" margin-left="auto" margin-right="auto" alt="Cube Constraint">
+<img src="{{ site.url }}{{ site.baseurl }}/public/img/fgsm_images/l_inty_constraint.png" height="500" margin-left="auto" margin-right="auto" alt="Cube Constraint">
 
 Our best guess is to move to the corners. The space is small and we're probably on a close to linear slope, so it is a good bet. To do this we don't normalize the gradient we take the sign of the gradient.
 $$ \hat{x} = x + \epsilon \text{sign}(\nabla_x J(x,y)) $$
@@ -126,7 +126,7 @@ x_adv = x + self.epsilon*x_grad.sign_()
 
 To see this attack, with the same epsilons as before:
 
-<iframe src="../material/fgsm_images/gradient_sign_method/index.html" frameborder="0" marginwidth="0" marginheight="0" width="100%" height="500" scrolling="no"></iframe>
+<iframe src="{{ site.url }}{{ site.baseurl }}/public/img/fgsm_images/gradient_sign_method/index.html" frameborder="0" marginwidth="0" marginheight="0" width="100%" height="500" scrolling="no"></iframe>
 
 Clearly the most effective so far. However, you can see that we really should stick to low $$\epsilon$$s else it overwhelms the image.
 

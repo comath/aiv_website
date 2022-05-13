@@ -61,9 +61,9 @@ permalink: /leadership_team/
         <h3 style="margin:10px">Ariel Herbert-Voss</h3>
         </td>
         <td>
-        <strong>Affiliation:</strong>  Indiana University
+        <strong>Affiliation:</strong> OpenAI
         <br>
-        <strong>Expertise:</strong>  ML Threat Detection
+        <strong>Expertise:</strong> ML Threat Detection
         <br>
 
         <strong>Bio:</strong> Ariel Herbert-Voss is a Senior Research Scientist at OpenAI working on breaking machine learning systems at the algorithmic level, and loves all things to do with malicious uses and abuses of AI. Ariel is a PhD student at Harvard University and periodically conducts trainings on practical adversarial machine learning.
@@ -76,9 +76,9 @@ permalink: /leadership_team/
         <h3 style="margin:10px">Anita Nikolich</h3>
         </td>
         <td>
-        <strong>Affiliation:</strong>  Indiana University
+        <strong>Affiliation:</strong>  University of Illinois Urbana-Champaign
         <br>
-        <strong>Expertise:</strong>  ML Threat Detection
+        <strong>Expertise:</strong> Networking, Security
         <!-- <br> <strong>Bio:</strong> -->       
         </td>
     </tr>
