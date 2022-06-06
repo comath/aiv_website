@@ -26,7 +26,10 @@ Our call for papers closes on June 22, 2022. Please submit [here](https://easych
 
 # AI Art
 
-We will have a booth for generative art, come make your own mini [DALL-E style](https://openai.com/dall-e-2/) art. We're devoting Saturday afternoon to art! If you want to show your art, please get in touch on the discord! 
+We will have a booth for generative art, come make your own mini [DALL-E style](https://openai.com/dall-e-2/) art. We're devoting Saturday afternoon to art! If you want to show your art, please get in touch on the discord!
+
+![hack-the-planet](/assets/images/f1b118ae-c726-11ec-b495-0242ac140002_0000.png)
+![nintendo](/assets/images/949d47d6-c727-11ec-ba54-0242ac140002_0000.png)
 
 # Schedule
 
