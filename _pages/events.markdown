@@ -9,6 +9,45 @@ title: "Events"
 ---
 
 ## AI Village @ DEF CON 28, Safe Mode
+*Friday, August 6, 2021 9:00 AM PST to Sunday, August 8, 2021 4:00 PM PST*
+
+<table border="1" bordercolor="020202" style="background-color:FFFFCC" width="100%" cellpadding="3" cellspacing="3">
+
+<tr> <td> <bold>Day</bold> </td><td> Start Time </td><td> Length (Minutes) </td><td> Primary Speaker </td><td> Talk Title </td></tr>
+
+<tr> <td> Friday </td><td> 9:00 AM </td><td> 30 </td><td> AI Village Organizers </td><td> Welcome. A Short Tour of Good and Bad AI in 2021 </td></tr>
+<tr> <td> Friday </td><td> 9:30 AM </td><td> 90 </td><td> Gavin Klondike </td><td> Intro to ML Workshop </td></tr>
+<tr> <td> Friday </td><td> 11:00 AM </td><td> 60 </td><td> <b>Bruce Schneier</b> </td><td> <b>The Coming AI Hackers</b> </td></tr>
+<tr> <td> Friday </td><td> 12:00 PM </td><td> 30 </td><td> Rumman Chowdhury </td><td> Algorithmic Ethics Bug Bounty Contest Announcement </td></tr>
+<tr> <td> Friday </td><td> 12:30 PM </td><td> 30 </td><td> Hyrum Anderson </td><td> Microsoft ML Security Evasion Competition Details </td></tr>
+<tr> <td> Friday </td><td> 1:00 PM </td><td> 30 </td><td> Dmitrijs Trizna </td><td> Shell Language Processing (SLP) </td></tr>
+<tr> <td> Friday </td><td> 1:30 PM </td><td> 60 </td><td> Sagar Samtani </td><td> Trailblazing the AI for Cybersecurity Discipline: Overview of the Field and Promising Future Directions </td></tr>
+<tr> <td> Friday </td><td> 2:30 PM </td><td> 30 </td><td> Sagar Samtani </td><td> AI Policy Talk: "An AI Playbook" and "An AI Security ISAC" </td></tr>
+<tr> <td> Friday </td><td> 3:00 PM </td><td> 30 </td><td> Tal Leibovich and Elad Ciuraru </td><td> Identifying Excel 4.0 Macro strains using Anomaly Detection </td></tr>
+<tr> <td> Friday </td><td> 3:30 PM </td><td> 60 </td><td> Will Pearce </td><td> Workshop on Counterfit </td></tr>
+<tr> <td> Friday </td><td> 4:30 PM </td><td> 30 </td><td> Everyone </td><td> AI Discord Happy Hour - Open Discussion on AIV Discord about the State of AI Security </td></tr>
+<tr> <td> Saturday </td><td> 9:00 AM </td><td> 30 </td><td> AI Village Organizers </td><td> Welcome to AI Village </td></tr>
+<tr> <td> Saturday </td><td> 9:30 AM </td><td> 90 </td><td> Gavin Klondike </td><td> Intro to ML Workshop </td></tr>
+<tr> <td> Saturday </td><td> 11:00 AM </td><td> 60 </td><td> Bruce Schneier </td><td> The Coming AI Hackers </td></tr>
+<tr> <td> Saturday </td><td> 12:00 PM </td><td> 30 </td><td> Suha Sabi Hussain </td><td> Never a dill moment: Exploiting machine learning pickle files </td></tr>
+<tr> <td> Saturday </td><td> 12:30 PM </td><td> 30 </td><td> Stella Biderman </td><td> Replication as a Security Threat: How to Save Millions By Recreating Someone Else’s Model </td></tr>
+<tr> <td> Saturday </td><td> 1:00 PM </td><td> 30 </td><td> Erick Galinkin </td><td> Who's Afraid of Thomas Bayes? </td></tr>
+<tr> <td> Saturday </td><td> 1:30 PM </td><td> 30 </td><td> Barton Rhodes </td><td> Risks of ML Systems in Health Care: The Real Story </td></tr>
+<tr> <td> Saturday </td><td> 2:00 PM </td><td> 60 </td><td> Eugene Neelou </td><td> The Real History of Adversarial Machine Learning </td></tr>
+<tr> <td> Saturday </td><td> 3:00 PM </td><td> 60 </td><td> Anita Nikolich & Rich Harang </td><td> RTV/AIV Red Teaming AI Roundtable </td></tr>
+<tr> <td> Saturday </td><td> 4:00 PM </td><td> 30 </td><td> Stefano Meschiari and Rebecca Lynch </td><td> Where We’re Going We Don’t Need Labels: Anomaly Detection for 2FA</td></tr>
+<tr> <td> Saturday </td><td> 4:30 PM </td><td> 30 </td><td> Everyone </td><td> AI Discord Happy Hour - Open Discussion on AIV Discord about the State of AI Security </td></tr>
+<tr> <td> Sunday </td><td> 9:00 AM </td><td> 30 </td><td> Abhishek Gupta </td><td> Stasis in AI Ethics </td></tr>
+<tr> <td> Sunday </td><td> 9:30 AM </td><td> 90 </td><td> Gavin Klondike </td><td> Intro to ML Workshop </td></tr>
+<tr> <td> Sunday </td><td> 11:00 AM </td><td> 30 </td><td> Brian Martin </td><td> Potential Pitfalls Protecting Patient Privacy </td></tr>
+<tr> <td> Sunday </td><td> 11:30 AM </td><td> 30 </td><td> Shubham Jain </td><td> Robustness of client-side scanning for illegal content detection on E2EE platforms </td></tr>
+<tr> <td> Sunday </td><td> 12:00 AM </td><td> 60 </td><td> Rumman Chowdhury </td><td> Twitter Ethics Bug Bounty: Winners and Wrap-up </td></tr>
+<tr> <td> Sunday </td><td> 1:00 PM </td><td> 60 </td><td> AI Village Organizers </td><td> Wrap Up </td></tr>
+
+</table>
+
+
+## AI Village @ DEF CON 28, Safe Mode
 *Fri, Aug 7, 2020 9:00 AM PST to Sun, Aug 9, 2020 4:00 PM PST*
 
 <table>

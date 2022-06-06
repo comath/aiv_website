@@ -1,4 +1,6 @@
 main:
+  - title: "DEFCON 30"
+    url: /defcon30/
   - title: "Our Events"
     url: /events/
   - title: "Blog"
