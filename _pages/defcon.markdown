@@ -24,9 +24,13 @@ The AI Village is soliciting short and long presentations, as well as workshops,
 
 Our call for papers closes on June 22, 2022. Please submit [here](https://easychair.org/cfp/AIV30).
 
+# ML Evasion 
+
+The ML Evasion competition is back! Hyrum Anderson, Eugene Neelou, and Zoltan Balazs are running the Machine Learning Security Evasion Competition again this year. The competition starts August 12, but you should register for it earlier on the 25th. This is one of the premier ML security contests and has has inspired excellent research. See the [announcement](https://www.robustintelligence.com/blog-post/ml-security-evasion-competition-2022) here for more details, and register [here](https://mlsec.io/).
+
 # AI Art
 
-We will have a booth for generative art, come make your own mini [DALL-E style](https://openai.com/dall-e-2/) art. We're devoting Saturday afternoon to art! If you want to show your art, please get in touch on the discord!
+We will have a booth for generative art, come make your own [DALL-E style](https://openai.com/dall-e-2/) art. We're devoting Saturday afternoon to art! If you want to show your art, please get in touch on the discord!
 
 ![hack-the-planet](/assets/images/f1b118ae-c726-11ec-b495-0242ac140002_0000.png)
 ![nintendo](/assets/images/949d47d6-c727-11ec-ba54-0242ac140002_0000.png)
