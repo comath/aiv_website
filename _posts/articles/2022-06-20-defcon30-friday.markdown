@@ -73,7 +73,4 @@ Lateral movement is the stage in which attackers spread in networks following in
 **Time**: 16:00-17:00 \
 **Moderator**: Rachel See, EEOC
 
-Panelists: 
-- Lindsay Zuloaga, HireVue
-- Matt Scherer, Center for Democracy and Tech
-- Patrick Hall, bnh.ai
+<a href="{% post_url 2022-08-08-hiring-panel  %}"> See the post here. </a>
