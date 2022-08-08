@@ -2,7 +2,7 @@
 layout: post
 title: AI and Hiring Tech Panel
 author: Rachel See
-date: 2022-08-08 09:00:00 +0900
+date: 2022-08-08 00:00:00 +0000
 category: "defcon 30"
 toc: true
 ---

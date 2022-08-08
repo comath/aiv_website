@@ -122,7 +122,7 @@ DEFCON 30 schedule. This is subject to change.
     <td> 60 </td>
     <td> Rachel See, et al </td>
     <td>
-        <a href="{% post_url 2022-06-20-defcon30-friday  %}#ai-and-hiring-tech">
+        <a href="{% post_url 2022-08-08-hiring-panel  %}">
             Panel: AI and Hiring Tech
         </a>
     </td>
