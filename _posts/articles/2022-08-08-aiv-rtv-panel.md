@@ -46,7 +46,7 @@ Suha Sabi Hussain is a software security engineer who specializes in machine lea
 
 **twitter**: [moo_hax](https://twitter.com/moo_hax/)
 
-Bio coming!
+Will Pearce is a Security Researcher at Nvidia who focuses on ML systems.
 
 ## Antonio Piazza
 
