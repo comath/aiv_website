@@ -7,9 +7,13 @@ category: "defcon 30"
 toc: true
 ---
 
-# Bios
+AI and ML is already being used to identify job candidates, screen resumes, assess worker productivity and even help tag candidates for firing. Can the interview chatbot AI really be fairer than a human being, and does the way you answer the personality test or your score on the video game assessment really reflect your ability to do the job? Of course, federal, state and local government regulators are concerned, and there are multiple (and potentially conflicting) regulatory efforts underway. 
 
-## Rachel See
+This conversation, featuring perspectives from a government regulator, civil-rights advocates, and a hacker who’s told a client that their AI is breaking the law, will highlight some of the existing and pending efforts to regulate AI-powered employment tools, and will focus on regulatory, technical and societal solutions to this very-real problem.
+
+# Panelists
+
+## Moderator: Rachel See
 
 Rachel See serves as EEOC Commissioner Keith Sonderling's Senior Counsel for AI and Algorithmic Bias. She works with Commissioner Sonderling to emphasize the applicability of the EEOC’s role in the growing field of AI and machine learning. Rachel previously served as the EEOC’s Acting Executive Officer and as a Special Assistant to the Chair. As the EEOC's Assistant General Counsel for Technology from 2017-2019, Rachel managed the Commission’s use of technology in its nationwide litigation program. From 2011-2016, Rachel was the Branch Chief, E-Litigation, at the National Labor Relations Board, where, in addition to representing the Agency in its response to complex Congressional oversight requests, Rachel was the lead architect behind the NLRB General Counsel’s eDiscovery program.
 

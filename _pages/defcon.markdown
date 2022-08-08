@@ -177,7 +177,7 @@ DEFCON 30 schedule. This is subject to change.
     <td> 60 </td>
     <td> Omar Santos, et. al. </td>
     <td>
-        <a href="{% post_url 2022-06-20-defcon30-saturday %}#the-use-of-aiml-in-offensive-security-operations"> 
+        <a href="{% post_url 2022-08-08-aiv-rtv-panel  %}"> 
             Panel: The Use of AI/ML in Offensive Security Operations
         </a> 
     </td>

@@ -50,13 +50,7 @@ Infestations of bots on social network platforms is nothing new, but the sophist
 **Time**: 14:00-15:00 \
 **Moderator**: Omar Santos
 
-The [Red Team Village](https://redteamvillage.io/) and the AI Village will host a panel from different industry experts to discuss the use of artificial intelligence and machine learning in offensive security operations. More details coming soon!
-
-Panelists:
-- Will Schroeder: @HarmJ0y
-- Will Pearce: @moo_hax
-- TBA
-- TBA
+<a href="{% post_url 2022-08-08-aiv-rtv-panel  %}"> See the post here. </a>
 
 ## Generative Art Tutorial
 
