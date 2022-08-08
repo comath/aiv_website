@@ -186,7 +186,7 @@ DEFCON 30 schedule. This is subject to change.
     <td> Saturday </td>
     <td> 3:00 PM </td>
     <td> 60 </td>
-    <td> TBD </td>
+    <td> Barton Rhodes and Ari Herbert-Voss </td>
     <td>
         <a href="{% post_url 2022-06-20-defcon30-saturday %}#generative-art-tutorial"> 
             Generative Art Tutorial
