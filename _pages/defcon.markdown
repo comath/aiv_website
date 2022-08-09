@@ -8,21 +8,9 @@ toc_sticky: true
 title: "DEFCON 30"
 ---
 
-# Call for Papers
+# Location
 
-The AI Village is soliciting short and long presentations, as well as workshops, tutorials, and demonstrations, on the uses and abuses of AI in the following areas:
-
-* Computer and network security
-* Physical security and surveillance
-* Privacy of personal information
-* Creativity and innovation
-* Generative art
-* Ethical considerations in AI research and deployment
-* Social impacts of AI
-* AI and the environment
-
-
-Our call for papers closes on June 22, 2022. Please submit [here](https://easychair.org/cfp/AIV30).
+We are in the Caesar's Forum in room 236. We are between the contest and merch areas on this [map](https://defcon.org/html/defcon-30/dc-30-venue.html).
 
 # ML Evasion 
 
@@ -37,7 +25,7 @@ We will have a booth for generative art, come make your own [DALL-E style](https
 
 # Schedule
 
-DEFCON 30 schedule. This is subject to change.
+DEFCON 30 schedule.
 
 <table border="1" bordercolor="020202" style="background-color:FFFFCC" width="100%" cellpadding="3" cellspacing="3">
 
