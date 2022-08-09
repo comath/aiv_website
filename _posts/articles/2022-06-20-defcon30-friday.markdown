@@ -30,7 +30,15 @@ In this talk, we will go through a real example of how a user behavior experimen
 **Time**: 12:00-13:00 \
 **Speaker**: Keith E. Sonderling - EEOC Commissioner
 
-More details coming soon!
+Keith E. Sonderling was confirmed by the U.S. Senate, with a bipartisan vote, to be a Commissioner on the U.S. Equal Employment Opportunity Commission (EEOC) in 2020.  Until January of 2021, he served as the Commission’s Vice-Chair.  His term expires on July 1, 2024.
+
+The EEOC is the United States’ premier civil rights agency enforcing federal laws that make it illegal to discriminate against a job applicant or an employee because of the person's race, color, religion, sex, national origin, age, disability or genetic information.
+
+Prior to his confirmation to the EEOC, Commissioner Sonderling served as the Acting and Deputy Administrator of the Wage and Hour Division at the U.S. Department of Labor.  Before joining the Department of Labor in 2017, Commissioner Sonderling practiced Labor and Employment law in Florida.
+
+Since joining the EEOC, one of Commissioner Sonderling’s highest priorities is ensuring that artificial intelligence and workplace technologies are designed and deployed consistent with long-standing civil rights laws. Commissioner Sonderling has published numerous articles on the benefits and potential harms of using artificial intelligence-based technology in the workplace and speaks globally on these emerging issues.
+
+Commissioner Sonderling will provide an overview of the ways that AI is already being used to make employment decisions, the legal framework governing AI in the U.S., important ways that U.S. civil rights laws protect employees from discrimination by algorithms, and the status of regulatory efforts at the federal, state, local and global levels. He will also discuss his thoughts on ways our society can achieve the benefits of AI while respecting the rights of workers.
 
 ## ML Security Evasion Competition Launch
 
