@@ -12,6 +12,8 @@ title: "DEFCON 30"
 
 We are in the Caesar's Forum in room 236. We are between the contest and merch areas on this [map](https://defcon.org/html/defcon-30/dc-30-venue.html).
 
+![Map of the caesar forums](/assets/images/dc_30_forum_map.png)
+
 # ML Evasion 
 
 The ML Evasion competition is back! Hyrum Anderson, Eugene Neelou, and Zoltan Balazs are running the Machine Learning Security Evasion Competition again this year. The competition starts August 12, but you should register for it earlier on the 25th. This is one of the premier ML security contests and has has inspired excellent research. See the [announcement](https://www.robustintelligence.com/blog-post/ml-security-evasion-competition-2022) here for more details, and register [here](https://mlsec.io/).
