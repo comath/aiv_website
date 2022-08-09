@@ -25,9 +25,11 @@ An accomplished classical musician, she regularly performs with the Symphony of 
 
 ## Patrick Hall
 
-Patrick Hall is principal scientist at BNH. Patrick also serves as a visiting professor in the Department of Decision Sciences at The George Washington University. He is a frequent writer, speaker and advisor on the responsible and transparent use of AI and ML technologies.
+Patrick Hall is principal scientist at BNH.AI, where he advises Fortune 500 clients on matters of AI risk and conducts research on AI risk management in support of NIST's efforts on trustworthy AI and technical AI standards. He also serves as visiting faculty in the Department of Decision Sciences at The George Washington School of Business, teaching classes on data ethics, machine learning, and the responsible use thereof.
 
-Before co-founding BNH, Patrick led H2O.ai’s efforts in responsible AI, resulting in one of the world’s first widely deployed commercial solutions for explainable and fair machine learning. He also held global customer-facing roles and R&D research roles at SAS Institute. Patrick studied computational chemistry at the University of Illinois before graduating from the Institute for Advanced Analytics at North Carolina State University.
+Prior to co-founding BNH, Patrick led H2O.ai’s efforts in responsible AI, resulting in one of the world’s first commercial solutions for explainable and fair machine learning. He also held global customer-facing roles and R&D research roles at SAS Institute. Patrick studied computational chemistry at the University of Illinois before graduating from the Institute for Advanced Analytics at North Carolina State University.
+
+Patrick's technical work has been profiled in Fortune, Wired, InfoWorld, TechCrunch and others. An ardent writer himself, Patrick has contributed pieces to outlets like McKinsey.com, O'Reilly Ideas,  Thompson-Reuters Regulatory Intelligence, and he is the lead author for the forthcoming book, Machine Learning for High Risk Applications.
 
 ## Matt Scherer
 
