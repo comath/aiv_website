@@ -189,7 +189,7 @@ DEFCON 30 schedule.
     <td> 60 </td>
     <td> dadabots </td>
     <td>
-        <a href="{% post_url 2022-06-20-defcon30-saturday %}#ai-music-tutorial-and-show"> 
+        <a href="{% post_url 2022-06-20-defcon30-saturday %}#malware-classification-with-machine-learning-enhanced-by-windows-kernel-emulations"> 
             AI Music Tutorial and Show
         </a> 
     </td>
