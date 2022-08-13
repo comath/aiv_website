@@ -176,10 +176,10 @@ DEFCON 30 schedule.
     <td> Saturday </td>
     <td> 3:00 PM </td>
     <td> 60 </td>
-    <td> Barton Rhodes and Ari Herbert-Voss </td>
+    <td> Dmitrijs Trizna </td>
     <td>
-        <a href="{% post_url 2022-06-20-defcon30-saturday %}#generative-art-tutorial"> 
-            Generative Art Tutorial
+        <a href="{% post_url 2022-06-20-defcon30-saturday %}#malware-classification-with-machine-learning-enhanced-by-windows-kernel-emulations"> 
+            Malware Classification With Machine Learning Enhanced by Windows Kernel Emulations
         </a> 
     </td>
 </tr>
@@ -189,7 +189,7 @@ DEFCON 30 schedule.
     <td> 60 </td>
     <td> dadabots </td>
     <td>
-        <a href="{% post_url 2022-06-20-defcon30-saturday %}#malware-classification-with-machine-learning-enhanced-by-windows-kernel-emulations"> 
+        <a href="{% post_url 2022-06-20-defcon30-saturday %}#"> 
             AI Music Tutorial and Show
         </a> 
     </td>
