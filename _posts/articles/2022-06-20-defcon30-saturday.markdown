@@ -52,14 +52,12 @@ Infestations of bots on social network platforms is nothing new, but the sophist
 
 <a href="{% post_url 2022-08-08-aiv-rtv-panel  %}"> See the post here. </a>
 
-## Generative Art Tutorial
+## Malware Classification With Machine Learning Enhanced by Windows Kernel Emulations
 
 **Time**: 15:00-16:00 \
-**Speaker**: Barton Rhodes and Ari Herbert-Voss
-- A brief and very recent history of making art with clever prompts
-- [Introduction to Hugging Face Diffusers](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/diffusers_intro.ipynb#scrollTo=6exNXjaejtJ-)
-- [How to design your prompts](https://dallery.gallery/the-dalle-2-prompt-book/)
-- Audience Participation: side-by-side of [Mega-secret Model]() against [Stable Diffusion](https://proximacentaurib.notion.site/e2537cbf42c34b7e9a9a4126f81dfd0d?v=7b4a3c03fb654045be324eb71acc57e6)
+**Speaker**: Dmitrijs Trizna
+
+This session will present a hybrid machine learning architecture that simultaneously utilizes static and dynamic malware analysis methodologies. We employ the Windows kernel emulator published by Mandiant for dynamic analysis and process emulation reports with a 1D convolutional neural network. On the contrary, static analysis is based on the state-of-the-art ensemble model publicly released by Endgame. It surpasses the capabilities of the modern AI classifiers. We use threat intelligence data for training consisting of in-the-wild telemetry from 100k samples and evaluate model performance collecting a test set three months after training. Additionally, we show that contextual telemetry from a system, such as an executable's file path, can increase detection rates. Finally, unaffiliated with any organization, we open-source our hybrid model with a convenient scikit-learn-like API for public use.
 
 ## AI Death Metal : Eliminating Humans from Music
 
