@@ -2,7 +2,7 @@
 layout: post
 title: Prompt Detective at SXSW!
 author: Sven Cattell
-date: 2024-03-8 08:00:00 +0900
+date: 2023-03-8 08:00:00 +0900
 category: "AI Security"
 ---
 
