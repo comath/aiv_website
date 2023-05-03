@@ -7,4 +7,5 @@ expertise: ML Defense, Geometric data analysis # Optional
 affiliation: nbhd.ai # Optional
 bio: true # If you don't want to include a bio, change this to false.
 ---
-Sven is the founder of nbhd.ai, a startup focused on the security and integrity of datasets and the AI they build. He was previously a senior data scientist at Elastic where he built the malware model training pipline. He has a PhD in Algebraic Topology, focused on equivariant K-Theory with Kac-Moody groups, and a postdoc in geometric machine learning where he focused on anomally and novelty detection.
+
+Sven founded the AI Village in 2018 and has been running it ever since. Sven is also the founder of nbhd.ai, a startup focused on the security and integrity of datasets and the AI they build. He was previously a senior data scientist at Elastic where he built the malware model training pipeline. He has a PhD in Algebraic Topology, and a postdoc in geometric machine learning where he focused on anomaly and novelty detection.
