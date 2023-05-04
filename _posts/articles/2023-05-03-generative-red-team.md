@@ -6,7 +6,7 @@ date: 2023-05-03 09:00:00 +0900
 category: "generative red team"
 ---
 
-Largest annual hacker convention to host thousands to find bugs in large language models built by Anthropic, Google, Hugging Face, NVIDIA, OpenAI, and Stability. This event is supported by the White House Office of Science, Technology, and Policy, the National Science Foundation’s Computer and Information Science and Engineering (CISE) Directorate, and the Congressional AI Caucus.
+Largest annual hacker convention to host thousands to find bugs in large language models built by Anthropic, Google, Hugging Face, NVIDIA, OpenAI, and Stability. This event is supported by the [White House](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/04/fact-sheet-biden-harris-administration-announces-new-actions-to-promote-responsible-ai-innovation-that-protects-americans-rights-and-safety/) Office of Science, Technology, and Policy, the National Science Foundation’s Computer and Information Science and Engineering (CISE) Directorate, and the Congressional AI Caucus.
 
 ******
 
