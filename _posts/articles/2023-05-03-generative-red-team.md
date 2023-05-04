@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AI Village at DEF CON announces largest-ever public Generative AI Red Team
-author: Sven Cattell
+author: Sven Cattell, Rumman Chowdhury, Austin Carson
 date: 2023-05-03 09:00:00 +0900
 category: "generative red team"
 ---
