@@ -31,7 +31,7 @@ Like all good threat models, we're going to start with a [data flow diagram (DFD
 * Private data sources (e.g., internal documents or vector databases)
 
 
-![alt_text](2023-06-06-threat-modeling-llm-images/dfd1.png "image_tooltip")
+![alt_text](/assets/images/2023-06-06-threat-modeling-llm-images/dfd1.png)
 
 
 **Figure 1 - Level 0 data flow diagram (DFD)**
@@ -78,7 +78,7 @@ For each table we'll have a column listing out each category of STRIDE as our la
 
 ### Trust Boundary: TB01
 
-![alt_text](2023-06-06-threat-modeling-llm-images/dfd-users.png "image_tooltip")
+![alt_text](/assets/images/2023-06-06-threat-modeling-llm-images/dfd-users.png)
 
 
 **Figure 2 - Trust boundary TB01**
@@ -87,9 +87,9 @@ This trust boundary lies between the users and external entities such as website
 
 
 
-![alt_text](2023-06-06-threat-modeling-llm-images/fig3a.png "image_tooltip")
+![alt_text](/assets/images/2023-06-06-threat-modeling-llm-images/fig3a.png)
 
-![alt_text](2023-06-06-threat-modeling-llm-images/fig3b.png "image_tooltip")
+![alt_text](/assets/images/2023-06-06-threat-modeling-llm-images/fig3b.png)
 
 
 **Figure 3 - Trust boundary TB01 - STRIDE table**
@@ -148,7 +148,7 @@ As shown above, we have four vulnerabilities right off the bat:
 
 
 
-![alt_text](2023-06-06-threat-modeling-llm-images/dfd-func.png "image_tooltip")
+![alt_text](/assets/images/2023-06-06-threat-modeling-llm-images/dfd-func.png)
 
 
 **Figure 4 - Trust boundary TB02**
@@ -157,9 +157,9 @@ This trust boundary lies between the LLM and backend functions or services. For 
 
 
 
-![alt_text](2023-06-06-threat-modeling-llm-images/fig5a.png "image_tooltip")
+![alt_text](/assets/images/2023-06-06-threat-modeling-llm-images/fig5a.png)
 
-![alt_text](2023-06-06-threat-modeling-llm-images/fig5b.png "image_tooltip")
+![alt_text](/assets/images/2023-06-06-threat-modeling-llm-images/fig5b.png)
 
 
 **Figure 5 - Trust boundary TB02 - STRIDE table**
@@ -202,7 +202,7 @@ Two major vulnerabilities stick out to us:
 
 
 
-![alt_text](2023-06-06-threat-modeling-llm-images/dfd-data.png "image_tooltip")
+![alt_text](/assets/images/2023-06-06-threat-modeling-llm-images/dfd-data.png)
 
 
 **Figure 6 - Trust boundary TB03**
@@ -211,9 +211,9 @@ This is the last trust boundary we're going to take a look at, **TB03**. This tr
 
 
 
-![alt_text](2023-06-06-threat-modeling-llm-images/fig7a.png "image_tooltip")
+![alt_text](/assets/images/2023-06-06-threat-modeling-llm-images/fig7a.png)
 
-![alt_text](2023-06-06-threat-modeling-llm-images/fig7b.png "image_tooltip")
+![alt_text](/assets/images/2023-06-06-threat-modeling-llm-images/fig7b.png)
 
 
 **Figure 7 - Trust boundary TB03 - STRIDE table**
