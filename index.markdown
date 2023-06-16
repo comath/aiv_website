@@ -14,9 +14,4 @@ feature_row:
 
 # About Us
 
-The AI Village is a community of hackers and data scientists working  to educate the world on the use and abuse of artificial intelligence in  security and privacy.
-<br>
-We are not sponsored by any one company, and it is our mission to maintain it as such as the community grows.
-We have a presence at [DEF CON](https://defcon.org/), the world’s longest running and largest underground hacking conference.
-
-<a href="https://discord.com/invite/GX5fhfT">Join our public discord here<a>
+The AI Village is a community of hackers and data scientists working to educate the world on the use and abuse of artificial intelligence in security and privacy. We aim to bring more diverse viewpoints to this field and grow the community of hackers, engineers, researchers, and policy makers working on making the AI we use and create safer. We believe that there needs to be more people with a hacker mindset assessing and analyzing machine learning systems. We have a presence at DEF CON, the world’s longest running and largest hacking conference.
