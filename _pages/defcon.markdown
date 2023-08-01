@@ -47,7 +47,7 @@ title: "DEFCON 31"
 <td markdown="span">Friday</td>
 <td markdown="span">11:30</td>
 <td markdown="span">30</td>
-<td markdown="span">Kyle Easterly</td>
+<td markdown="span">Kyle Easterly; Mitch Kitter</td>
 <td markdown="span">LLMs: Loose Lips Multipliers</td>
 </tr>
 <tr>
@@ -103,8 +103,8 @@ title: "DEFCON 31"
 <td markdown="span">Saturday</td>
 <td markdown="span">10:30 </td>
 <td markdown="span">60 </td>
-<td markdown="span">Mikel Rodriguez </td>
-<td markdown="span">AI red teaming tradecraft: a team of teams approach </td>
+<td markdown="span">Mikel Rodriguez; Daniel Fabian;  Sarah Hodkinson</td>
+<td markdown="span">Keynote 2: AI red teaming tradecraft: a team of teams approach </td>
 </tr>
 <tr>
 <td markdown="span">Saturday</td>
