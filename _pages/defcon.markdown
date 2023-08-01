@@ -137,13 +137,13 @@ title: "DEFCON 31"
 <tr>
 <td markdown="span">Saturday</td>
 <td markdown="span">16:00 </td>
-<td markdown="span">60 </td>
-<td markdown="span">Jonathon Penney </td>
+<td markdown="span">30 </td>
+<td markdown="span">Ram Shankar Siva Kumar </td>
 <td markdown="span">Ignore the Law: The Legal Risks of Prompt Injection Attacks on Large Language Models </td>
 </tr>
 <tr>
 <td markdown="span">Saturday</td>
-<td markdown="span">17:00 </td>
+<td markdown="span">16:30 </td>
 <td markdown="span">60 </td>
 <td markdown="span">Gavin Klondike </td>
 <td markdown="span">ChatGPT: Your Red Teaming Ally </td>
