@@ -46,112 +46,112 @@ title: "DEFCON 31"
 <tr>
 <td markdown="span">Friday</td>
 <td markdown="span">11:30</td>
-<td markdown="span">30</td>
+<td markdown="span">25</td>
 <td markdown="span">Kyle Easterly; Mitch Kitter</td>
 <td markdown="span">LLMs: Loose Lips Multipliers</td>
 </tr>
 <tr>
 <td markdown="span">Friday</td>
 <td markdown="span">12:00</td>
-<td markdown="span">30</td>
+<td markdown="span">25</td>
 <td markdown="span">Adhishree Kathikar; Aishwarya Nair</td>
 <td markdown="span">Assessing the Vulnerabilities of the Open-Source Artificial Intelligence (AI) Landscape: A Large-Scale Analysis of the Hugging Face Platform</td>
 </tr>
 <tr>
 <td markdown="span">Friday</td>
 <td markdown="span">12:30 </td>
-<td markdown="span">60 </td>
+<td markdown="span">55 </td>
 <td markdown="span">Marta Janus </td>
 <td markdown="span">Not Just The Pickle: An Overview of Exploitable ML Serialization Formats</td>
 </tr>
 <tr>
 <td markdown="span">Friday</td>
 <td markdown="span">13:30 </td>
-<td markdown="span">30 </td>
+<td markdown="span">25 </td>
 <td markdown="span">Jesse van der Zweep </td>
 <td markdown="span">Through the Rearview Mirror: A Comprehensive Analysis and Comparison of Adversarial Attacks on ML Models in the Automotive Industry </td>
 </tr>
 <tr>
 <td markdown="span">Friday</td>
 <td markdown="span">14:00 </td>
-<td markdown="span">60 </td>
+<td markdown="span">55 </td>
 <td markdown="span">Ram Shankar Siva Kumar </td>
 <td markdown="span">A Few Useful Lessons about AI Red Teaming </td>
 </tr>
 <tr>
 <td markdown="span">Friday</td>
 <td markdown="span">16:00 </td>
-<td markdown="span">60 </td>
+<td markdown="span">55 </td>
 <td markdown="span">Chloe Messdaghi moderating </td>
 <td markdown="span">Panel: Unveiling the Secrets: Breaking into AI/ML Security Bug Bounty Hunting </td>
 </tr>
 <tr>
 <td markdown="span">Friday</td>
 <td markdown="span">17:00 </td>
-<td markdown="span">60 </td>
+<td markdown="span">55 </td>
 <td markdown="span">Tom Bonner </td>
 <td markdown="span">Ghost in the Neurons - ML Webshells </td>
 </tr>
 <tr>
 <td markdown="span">Saturday</td>
 <td markdown="span">10:00 </td>
-<td markdown="span">30 </td>
+<td markdown="span">25 </td>
 <td markdown="span">Adrian Wood </td>
 <td markdown="span">you sound confused, anyways - thanks for the jewels. </td>
 </tr>
 <tr>
 <td markdown="span">Saturday</td>
 <td markdown="span">10:30 </td>
-<td markdown="span">60 </td>
+<td markdown="span">55 </td>
 <td markdown="span">Mikel Rodriguez; Daniel Fabian;  Sarah Hodkinson</td>
 <td markdown="span">Keynote 2: AI red teaming tradecraft: a team of teams approach </td>
 </tr>
 <tr>
 <td markdown="span">Saturday</td>
 <td markdown="span">11:30 </td>
-<td markdown="span">60 </td>
+<td markdown="span">55 </td>
 <td markdown="span">Eryk Salvaggio moderating </td>
 <td markdown="span">Panel : Creative Misuse of AI Systems </td>
 </tr>
 <tr>
 <td markdown="span">Saturday</td>
 <td markdown="span">12:30 </td>
-<td markdown="span">60 </td>
+<td markdown="span">55 </td>
 <td markdown="span">Robert Hudock; Nick Maietta </td>
 <td markdown="span">LLM Legal Risk Management, and Use Case Development Strategies to Minimize Risk </td>
 </tr>
 <tr>
 <td markdown="span">Saturday</td>
 <td markdown="span">13:30 </td>
-<td markdown="span">60 </td>
+<td markdown="span">55 </td>
 <td markdown="span">Ben Gelman; Younghoo Lee </td>
 <td markdown="span">The Sinister Synergy of Advanced AI: Automatically Orchestrating Large-scale Scam Campaigns with Large Generative Models </td>
 </tr>
 <tr>
 <td markdown="span">Saturday</td>
 <td markdown="span">15:30 </td>
-<td markdown="span">30 </td>
+<td markdown="span">25 </td>
 <td markdown="span">Kenneth Yeung </td>
 <td markdown="span">Hackaprompt 2023: Trials and Tribulations </td>
 </tr>
 <tr>
 <td markdown="span">Saturday</td>
 <td markdown="span">16:00 </td>
-<td markdown="span">30 </td>
+<td markdown="span">25 </td>
 <td markdown="span">Ram Shankar Siva Kumar </td>
 <td markdown="span">Ignore the Law: The Legal Risks of Prompt Injection Attacks on Large Language Models </td>
 </tr>
 <tr>
 <td markdown="span">Saturday</td>
 <td markdown="span">16:30 </td>
-<td markdown="span">60 </td>
+<td markdown="span">55 </td>
 <td markdown="span">Gavin Klondike </td>
 <td markdown="span">ChatGPT: Your Red Teaming Ally </td>
 </tr>
 <tr>
 <td markdown="span">Sunday </td>
 <td markdown="span">10:00 </td>
-<td markdown="span">30 </td>
+<td markdown="span">25 </td>
 <td markdown="span">Rafael Turner </td>
 <td markdown="span">Fuzzing and Symbolic Execution: Offensive Techniques to Unmask Vulnerabilities in Neural Networks </td>
 </tr>
