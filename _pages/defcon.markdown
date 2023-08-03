@@ -92,13 +92,7 @@ title: "DEFCON 31"
 <td markdown="span">Tom Bonner </td>
 <td markdown="span">Ghost in the Neurons - ML Webshells </td>
 </tr>
-<tr>
-<td markdown="span">Saturday</td>
-<td markdown="span">10:00 </td>
-<td markdown="span">25 </td>
-<td markdown="span">Adrian Wood </td>
-<td markdown="span">you sound confused, anyways - thanks for the jewels. </td>
-</tr>
+
 <tr>
 <td markdown="span">Saturday</td>
 <td markdown="span">10:30 </td>
@@ -126,6 +120,13 @@ title: "DEFCON 31"
 <td markdown="span">55 </td>
 <td markdown="span">Ben Gelman; Younghoo Lee </td>
 <td markdown="span">The Sinister Synergy of Advanced AI: Automatically Orchestrating Large-scale Scam Campaigns with Large Generative Models </td>
+</tr>
+<tr>
+<td markdown="span">Saturday</td>
+<td markdown="span">15:00 </td>
+<td markdown="span">25 </td>
+<td markdown="span">Adrian Wood </td>
+<td markdown="span">you sound confused, anyways - thanks for the jewels. </td>
 </tr>
 <tr>
 <td markdown="span">Saturday</td>
