@@ -66,13 +66,6 @@ title: "DEFCON 31"
 </tr>
 <tr>
 <td markdown="span">Friday</td>
-<td markdown="span">13:30 </td>
-<td markdown="span">25 </td>
-<td markdown="span">Jesse van der Zweep </td>
-<td markdown="span">Through the Rearview Mirror: A Comprehensive Analysis and Comparison of Adversarial Attacks on ML Models in the Automotive Industry </td>
-</tr>
-<tr>
-<td markdown="span">Friday</td>
 <td markdown="span">14:00 </td>
 <td markdown="span">55 </td>
 <td markdown="span">Ram Shankar Siva Kumar </td>
