@@ -66,6 +66,14 @@ title: "DEFCON 31"
 </tr>
 <tr>
 <td markdown="span">Friday</td>
+<td markdown="span">13:30 </td>
+<td markdown="span">25 </td>
+<td markdown="span">Ari Herbert-Voss; Shane Caldwell </td>
+<td markdown="span">How NOT to Train your Hack Bot: Dos and Don’ts of Building Offensive GPTs</td>
+</tr>
+
+<tr>
+<td markdown="span">Friday</td>
 <td markdown="span">14:00 </td>
 <td markdown="span">55 </td>
 <td markdown="span">Ram Shankar Siva Kumar </td>
