@@ -55,7 +55,7 @@ title: "DEFCON 31"
 <td markdown="span">12:00</td>
 <td markdown="span">25</td>
 <td markdown="span">Adhishree Kathikar; Aishwarya Nair</td>
-<td markdown="span">Assessing the Vulnerabilities of the Open-Source Artificial Intelligence (AI) Landscape: A Large-Scale Analysis of the Hugging Face Platform</td>
+<td markdown="span">Assessing the Vulnerabilities of the Open-Source Artificial Intelligence (AI) Landscape: A Large-Scale Analysis of the Hugging Face Platform (<a href="/assets/AIVDC31/DSAIL DEFCON AI Village.pdf">Slides</a>)</td>
 </tr>
 <tr>
 <td markdown="span">Friday</td>
