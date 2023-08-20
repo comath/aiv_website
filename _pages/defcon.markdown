@@ -93,7 +93,22 @@ title: "DEFCON 31"
 <td markdown="span">Tom Bonner </td>
 <td markdown="span">Ghost in the Neurons - ML Webshells </td>
 </tr>
+</tbody>
+</table>
 
+
+<table>
+<colgroup span="4"></colgroup>
+<thead>
+<tr class="header">
+<th>Day</th>
+<th>Start Time</th>
+<th>Length (Minutes)</th>
+<th>Primary Speaker</th>
+<th>Talk Title</th>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td markdown="span">Saturday</td>
 <td markdown="span">10:30 </td>
@@ -106,7 +121,7 @@ title: "DEFCON 31"
 <td markdown="span">11:30 </td>
 <td markdown="span">55 </td>
 <td markdown="span">Eryk Salvaggio moderating </td>
-<td markdown="span">Panel : Creative Misuse of AI Systems </td>
+<td markdown="span"><a href="https://cyberneticforests.substack.com/p/the-algorithmic-resistance-research">Panel : Creative Misuse of AI Systems </a></td>
 </tr>
 <tr>
 <td markdown="span">Saturday</td>
@@ -120,21 +135,21 @@ title: "DEFCON 31"
 <td markdown="span">13:30 </td>
 <td markdown="span">55 </td>
 <td markdown="span">Ben Gelman; Younghoo Lee </td>
-<td markdown="span">The Sinister Synergy of Advanced AI: Automatically Orchestrating Large-scale Scam Campaigns with Large Generative Models </td>
+<td markdown="span">The Sinister Synergy of Advanced AI: Automatically Orchestrating Large-scale Scam Campaigns with Large Generative Models (<a href="/assets/AIVDC31/scampaign_defcon_2023.pdf">Slides</a>) </td>
 </tr>
 <tr>
 <td markdown="span">Saturday</td>
 <td markdown="span">15:00 </td>
 <td markdown="span">25 </td>
 <td markdown="span">Adrian Wood </td>
-<td markdown="span">you sound confused, anyways - thanks for the jewels. </td>
+<td markdown="span"><a href="https://5stars217.github.io/2023-08-08-red-teaming-with-ml-models/">you sound confused, anyways - thanks for the jewels.</a> (<a href="/assets/AIVDC31/AIVDC31.pdf">Slides</a>) </td>
 </tr>
 <tr>
 <td markdown="span">Saturday</td>
 <td markdown="span">15:30 </td>
 <td markdown="span">25 </td>
 <td markdown="span">Kenneth Yeung </td>
-<td markdown="span">Hackaprompt 2023: Trials and Tribulations </td>
+<td markdown="span">Hackaprompt 2023: Trials and Tribulations (<a href="/assets/AIVDC31/DEFCON AIV KENYEUNG FINAL.pdf">Slides</a>)</td>
 </tr>
 <tr>
 <td markdown="span">Saturday</td>
@@ -148,8 +163,23 @@ title: "DEFCON 31"
 <td markdown="span">16:30 </td>
 <td markdown="span">55 </td>
 <td markdown="span">Gavin Klondike </td>
-<td markdown="span">ChatGPT: Your Red Teaming Ally </td>
+<td markdown="span"><a href="https://github.com/NetsecExplained/chatgpt-your-red-team-ally">ChatGPT: Your Red Teaming Ally</a></td>
 </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup span="4"></colgroup>
+<thead>
+<tr class="header">
+<th>Day</th>
+<th>Start Time</th>
+<th>Length (Minutes)</th>
+<th>Primary Speaker</th>
+<th>Talk Title</th>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td markdown="span">Sunday </td>
 <td markdown="span">10:00 </td>
