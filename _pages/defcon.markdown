@@ -34,7 +34,7 @@ title: "DEFCON 31"
 <td markdown="span">10:15</td>
 <td markdown="span">45</td>
 <td markdown="span">Joshua Saxe, META</td>
-<td markdown="span">Keynote: The last attempted AI revolution in security, and the next one</td>
+<td markdown="span">Keynote: The last attempted AI revolution in security, and the next one (<a href="https://drive.google.com/file/d/1BbSIBayQ1RHVSnh-FnaeXr8xjw5SVJV8/view">Slides on Google Drive</a>)</td>
 </tr>
 <tr>
 <td markdown="span">Friday</td>
