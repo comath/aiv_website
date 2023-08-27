@@ -128,7 +128,7 @@ title: "DEFCON 31"
 <td markdown="span">12:30 </td>
 <td markdown="span">55 </td>
 <td markdown="span">Robert Hudock; Nick Maietta </td>
-<td markdown="span">LLM Legal Risk Management, and Use Case Development Strategies to Minimize Risk </td>
+<td markdown="span">LLM Legal Risk Management, and Use Case Development Strategies to Minimize Risk (<a href="/assets/AIVDC31/Defcon Presentation_2.pdf">Slides</a>)</td>
 </tr>
 <tr>
 <td markdown="span">Saturday</td>
@@ -184,7 +184,7 @@ title: "DEFCON 31"
 <td markdown="span">Sunday </td>
 <td markdown="span">10:00 </td>
 <td markdown="span">25 </td>
-<td markdown="span">Rafael Turner </td>
+<td markdown="span">Rafael Turner, Dedrone</td>
 <td markdown="span">Fuzzing and Symbolic Execution: Offensive Techniques to Unmask Vulnerabilities in Neural Networks </td>
 </tr>
 <tr>
