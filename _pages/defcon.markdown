@@ -114,7 +114,7 @@ title: "DEFCON 31"
 <td markdown="span">10:30 </td>
 <td markdown="span">55 </td>
 <td markdown="span">Mikel Rodriguez; Daniel Fabian;  Sarah Hodkinson</td>
-<td markdown="span">Keynote 2: AI red teaming tradecraft: a team of teams approach </td>
+<td markdown="span">Keynote 2: AI red teaming tradecraft: a team of teams approach (<a href="/assets/AIVDC31/Google DeepMind AIV DEFCON Talk.pdf">Slides</a>)</td>
 </tr>
 <tr>
 <td markdown="span">Saturday</td>
