@@ -1,7 +1,7 @@
 ---
 first_name: Will
 last_name: Pearce
-position: CTF Lead
+position: CTF Lead, Steering Committee Member
 expertise: ML Threat Detection
 affiliation: NVIDIA
 profile: cropped-will-131x131.png

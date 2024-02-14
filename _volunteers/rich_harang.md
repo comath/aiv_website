@@ -1,7 +1,7 @@
 ---
 first_name: Rich
 last_name: Harang
-position: CFP Lead
+position: CFP Lead, Steering Committee Member
 expertise: Network Intrusion Detection, ML for Offense
 affiliation: NVIDIA
 profile: rharang.jpg
