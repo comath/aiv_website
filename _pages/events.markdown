@@ -8,6 +8,19 @@ toc_sticky: true
 title: "Events"
 ---
 
+* CactusCon February 16-17
+* CypherCon April 4-5
+* BSides Puerto Rico April 12-13
+* BSidesCharm April 20-21
+* BSides SF May 4-5
+* RSA Sandbox May 6-9
+* DEFCON 32 August 8-12
+
+For a discount [RSA](https://www.rsaconference.com/rsac-programs/innovation/innovation-sandbox) use the code below
+![RSA](/assets/images/RSAC 2024_AI Village_300x250_Code2.jpg)
+
+# Past Events
+
 ## AI Village @ DEF CON 30, Safe Mode
 *Friday, August 11, 2022 9:00 AM PST to Sunday, August 14, 2022 4:00 PM PST*
 

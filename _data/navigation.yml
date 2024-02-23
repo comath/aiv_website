@@ -1,7 +1,7 @@
 main:
-  - title: "DEFCON 31"
-    url: /defcon31/
-  - title: "Past Events"
+  # - title: "DEFCON 31"
+  #   url: /defcon31/
+  - title: "Events"
     url: /events/
   - title: "Blog"
     url: /blog/
