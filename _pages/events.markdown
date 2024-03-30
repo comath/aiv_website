@@ -8,16 +8,6 @@ toc_sticky: true
 title: "Events"
 ---
 
-# Volunteer Demo Submissions 2024
-
-The AIVillage is seeking 16 volunteer project demos for this years DEFCON! If you're a student or in your early career, we'll pay for your flights and hotel to present this.
-
-* Submit before April 25th you could present at RSA.
-* The top 8 demos will be invited to present them at the AI day Hackers on the Hill.
-* **Submissions should be made before May 1st 2024 to be considered in time for DEFCON.** 
-
-To learn more and submit your demo, **[complete this google form.](https://forms.gle/MDLZnvYcnNG3HzXX7)**
-
 # 2024 Events
 
 * CactusCon February 16-17
@@ -30,6 +20,24 @@ To learn more and submit your demo, **[complete this google form.](https://forms
 
 For a discount [RSA](https://www.rsaconference.com/rsac-programs/innovation/innovation-sandbox) use the code below
 ![RSA](/assets/images/RSAC 2024_AI Village_300x250_Code2.jpg)
+
+
+## Papers and talks 2024
+
+The AI Village is soliciting short (20 minute) and long (45 minute) presentations, as well as workshops, tutorials, and demonstrations, on the uses and abuses of AI. **[Submit your presentation, paper, or talk using our CRP](https://aiv2024.hotcrp.com/)**
+
+# Volunteer Demo Submissions 2024
+
+The AIVillage is seeking 16 volunteer project demos for this years DEFCON! If you're a student or in your early career, we'll pay for your flights and hotel to present this.
+
+* Submit before April 25th you could present at RSA.
+* The top 8 demos will be invited to present them at the AI day Hackers on the Hill.
+* **Submissions should be made before May 1st 2024 to be considered in time for DefCON.** 
+
+To learn more and submit your demo: **[Complete this google form](https://forms.gle/gZMe4SDJNqGWgdik7)**
+
+If you would like to volunteer to help setup or manage events: [Submit a general volunteer application here](https://forms.gle/vCrz3zpR8xHCsTtJ8)
+
 
 # Past Events
 

@@ -12,9 +12,17 @@ feature_row:
     title: "AI Village Banner"
 ---
 
-# Volunteer Project Demos 2024
+# 2024 Volunteer Opportunities!
 
-We are seeking 16 volunteer project demos for this years DEFCON! If you're a student or in your early career, we'll pay for your flights and hotel to present this. Submissions should be made before **May 1st 2024** to be considered in time. To submit your demo project **[complete this google form.](https://forms.gle/MDLZnvYcnNG3HzXX7)**
+## Papers and talks
+
+The AI Village is soliciting short (20 minute) and long (45 minute) presentations, as well as workshops, tutorials, and demonstrations, on the uses and abuses of AI. **[Submit your presentation, paper, or talk using our CRP](https://aiv2024.hotcrp.com/)**
+
+## Volunteer Project Demos
+
+We are also seeking 16 volunteer project demos for this years DefCON! If you're a student or in your early career, we'll pay for your flights and hotel to present this. Submissions should be made before **May 1st 2024** to be considered in time. To submit your demo project: **[Complete this google form](https://forms.gle/gZMe4SDJNqGWgdik7)**
+
+If you would like to volunteer to help setup or manage events: [Submit a general volunteer application here](https://forms.gle/vCrz3zpR8xHCsTtJ8)
 
 # About Us
 
