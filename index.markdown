@@ -20,7 +20,7 @@ The AI Village is soliciting short (20 minute) and long (45 minute) presentation
 
 ## Volunteer Project Demos
 
-We are also seeking 16 volunteer project demos for this years DefCON! If you're a student or in your early career, we'll pay for your flights and hotel to present this. Submissions should be made before **May 1st 2024** to be considered in time. To submit your demo project: **[Complete this google form](https://forms.gle/gZMe4SDJNqGWgdik7)**
+We are also seeking 16 volunteer project demos for this years DEF CON! If you're a student or in your early career, we'll pay for your flights and hotel to present this. Submissions should be made before **May 1st 2024** to be considered in time. To submit your demo project: **[Complete this google form](https://forms.gle/gZMe4SDJNqGWgdik7)**
 
 If you would like to volunteer to help setup or manage events: [Submit a general volunteer application here](https://forms.gle/vCrz3zpR8xHCsTtJ8)
 

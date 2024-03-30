@@ -16,7 +16,7 @@ title: "Events"
 * BSidesCharm April 20-21
 * BSides SF May 4-5
 * RSA Sandbox May 6-9
-* DEFCON 32 August 8-12
+* DEF CON 32 August 8-12
 
 For a discount [RSA](https://www.rsaconference.com/rsac-programs/innovation/innovation-sandbox) use the code below
 ![RSA](/assets/images/RSAC 2024_AI Village_300x250_Code2.jpg)
@@ -28,11 +28,11 @@ The AI Village is soliciting short (20 minute) and long (45 minute) presentation
 
 # Volunteer Demo Submissions 2024
 
-The AIVillage is seeking 16 volunteer project demos for this years DEFCON! If you're a student or in your early career, we'll pay for your flights and hotel to present this.
+The AIVillage is seeking 16 volunteer project demos for this years DEF CON! If you're a student or in your early career, we'll pay for your flights and hotel to present this.
 
 * Submit before April 25th you could present at RSA.
 * The top 8 demos will be invited to present them at the AI day Hackers on the Hill.
-* **Submissions should be made before May 1st 2024 to be considered in time for DefCON.** 
+* **Submissions should be made before May 1st 2024 to be considered in time for DEF CON.** 
 
 To learn more and submit your demo: **[Complete this google form](https://forms.gle/gZMe4SDJNqGWgdik7)**
 
