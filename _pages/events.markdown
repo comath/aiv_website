@@ -36,6 +36,7 @@ The AIVillage is seeking 16 volunteer project demos for this years DEF CON! If y
 
 To learn more and submit your demo: **[Complete this google form](https://forms.gle/gZMe4SDJNqGWgdik7)**
 
+## General Volunteer
 If you would like to volunteer to help setup or manage events: [Submit a general volunteer application here](https://forms.gle/vCrz3zpR8xHCsTtJ8)
 
 
