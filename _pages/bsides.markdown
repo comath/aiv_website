@@ -20,6 +20,9 @@ https://crucible.dreadnode.io/
 
 * **Speaker**: Ravin Kumar
 * **Time**: 3pm Saturday
+* **Reference Links**
+  * https://ravinkumar.com/GenAiGuidebook/model_basics/SimpleLinRegFlax.html
+  * https://ravinkumar.com/GenAiGuidebook/deepdive/GPTFromScratchFlax.html
 
 ### Holistic ML Threat Modeling
 
