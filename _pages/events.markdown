@@ -18,28 +18,17 @@ title: "Events"
 * RSA Sandbox May 6-9
 * DEF CON 32 August 8-12
 
-For a discount [RSAC](https://www.rsaconference.com/usa?utm_source=sbox-AIvil&utm_medium=referral&utm_campaign=textad-us2024) pass use the code below
-![RSA](/assets/images/RSAC 2024_AI Village_300x250_Code2.jpg)
+## Demos at DEF CON 32
+
+Join us at the AI Village for interactive demonstrations at the intersection of AI and security. Attempt to hijack and manipulate autonomous robots using large language models and generative AI. Fool your friends by creating deep fakes with a state-of-the-art setup, complete with DSLR camera, green screen, and props. Finally, put your social engineering to the test with a deep fake detection system, designed to identify and combat synthetic media. Don't miss this opportunity to engage with adversarial AI technologies and learn about their implications on the future, at DEF CON 32!
+
+## Generative Red Team 2 at DEF CON 32
+
+At DEF CON 31 AI Village hosted the Generative Red Team (GRT1), the world’s largest, public Large Language Model (LLM) Red Team, in conjunction with other non profit, corporate, and government partners. We brought a taste of model testing to DEF CON and as a first event of its kind much was learned about the models, and about the event. The GRT was a Capture The Flag (CTF) where you found single examples of the model behaving poorly. Hopefully it prepared you for the real thing as this year we’re asking DEF CON for real model evaluations in a “bug” bash. [Read our blog post here for more details.](https://aivillage.org/generative%20red%20team/generative-red-team-2/)
 
 
-# 2024 Volunteer Opportunities
-
-## Papers and talks 2024
-
-The AI Village is soliciting short (20 minute) and long (45 minute) presentations, as well as workshops, tutorials, and demonstrations, on the uses and abuses of AI. **[Submit your presentation, paper, or talk using our CRP](https://aiv2024.hotcrp.com/)**
-
-## Volunteer Demo Submissions 2024
-
-The AIVillage is seeking 8 volunteer project demos for this years DEF CON!
-
-* Submit before April 25th you could present at RSA.
-* The top 8 demos will be invited to present them at the AI day Hackers on the Hill.
-* **Submissions should be made before June 1st 2024 to be considered in time for DEF CON 32 (August 8-12)** 
-
-To learn more and submit your demo: **[Complete this google form](https://forms.gle/gZMe4SDJNqGWgdik7)**
-
-### General Volunteer
-If you would like to volunteer to help setup or manage events: [Submit a general volunteer application here](https://forms.gle/vCrz3zpR8xHCsTtJ8)
+## Volunteering
+If you would like to volunteer at events [submit a general volunteer application here.](https://forms.gle/vCrz3zpR8xHCsTtJ8)
 
 
 # Past Events
