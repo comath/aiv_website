@@ -2,13 +2,13 @@
 layout: post
 title: DEFCON 32 Friday Schedule
 author: AI Village
-date: 2022-07-30 09:00:00 +0900
+date: 2024-07-30 09:00:00 +0900
 category: "defcon 32"
 toc: true
 ---
 
 ## Removing the Ring of Gyges: Lessons from Securing AI Systems Against File Format Abuse
-================================================================================================
+===================================
 
 Abstract
 --------
@@ -59,7 +59,7 @@ Topics
 
 ## Incubated Machine Learning Exploits: Backdooring ML Pipelines Using
 Input-Handling Bugs
-================================================================================================
+===================================
 
 Abstract
 --------
@@ -84,7 +84,7 @@ Topics
 
 
 ## BOLABuster: Harnessing LLMs for Automating BOLA Detection
-=========================================================================
+===================================
 
 Abstract
 --------
@@ -118,7 +118,7 @@ Topics
 
 
 ## My Conversations with a GenAI-Powered Virtual Kidnapper
-=======================================================================
+===================================
 
 Abstract
 --------
@@ -143,9 +143,8 @@ Topics
 * Defenses for AI systems
 
 
-## Evaluations and Guardrails against Prompt Injection attacks on LLM
-powered-applications
-================================================================================================
+## Evaluations and Guardrails against Prompt Injection attacks on LLM powered-applications
+===================================
 
 Abstract
 --------
@@ -177,7 +176,7 @@ Topic
 
 
 ## On Your Ocean's 11 Team, I'm the AI Guy (technically Girl)
-==========================================================================
+===================================
 
 Abstract
 --------
@@ -206,7 +205,7 @@ Topics
 
 
 ## AI’ll be watching you. Greybox Attacks against an Embedded AI
-===============================================================================
+===================================
 
 Abstract
 --------
@@ -232,9 +231,8 @@ Topics
 * Embedded AI systems
 
 
-## RoguePilot: Data Corruption and Leakage in Copilot for Microsoft 365 [45 min
-version]
-================================================================================================
+## RoguePilot: Data Corruption and Leakage in Copilot for Microsoft 365
+===================================
 
 Abstract
 --------
