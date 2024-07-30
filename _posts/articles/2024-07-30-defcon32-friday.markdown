@@ -8,7 +8,6 @@ toc: true
 ---
 
 ## Removing the Ring of Gyges: Lessons from Securing AI Systems Against File Format Abuse
-===================================
 
 Abstract
 --------
@@ -36,7 +35,6 @@ Topics
 * Using AI in defensive operations
 
 ## Photoshop Fantasies
-===================================
 
 Abstract
 --------
@@ -59,7 +57,6 @@ Topics
 
 ## Incubated Machine Learning Exploits: Backdooring ML Pipelines Using
 Input-Handling Bugs
-===================================
 
 Abstract
 --------
@@ -84,7 +81,6 @@ Topics
 
 
 ## BOLABuster: Harnessing LLMs for Automating BOLA Detection
-===================================
 
 Abstract
 --------
@@ -118,7 +114,6 @@ Topics
 
 
 ## My Conversations with a GenAI-Powered Virtual Kidnapper
-===================================
 
 Abstract
 --------
@@ -144,7 +139,6 @@ Topics
 
 
 ## Evaluations and Guardrails against Prompt Injection attacks on LLM powered-applications
-===================================
 
 Abstract
 --------
@@ -176,7 +170,6 @@ Topic
 
 
 ## On Your Ocean's 11 Team, I'm the AI Guy (technically Girl)
-===================================
 
 Abstract
 --------
@@ -205,7 +198,6 @@ Topics
 
 
 ## AI’ll be watching you. Greybox Attacks against an Embedded AI
-===================================
 
 Abstract
 --------
@@ -232,7 +224,6 @@ Topics
 
 
 ## RoguePilot: Data Corruption and Leakage in Copilot for Microsoft 365
-===================================
 
 Abstract
 --------
