@@ -1,4 +1,14 @@
-﻿# BOLABuster: Harnessing LLMs for Automating BOLA Detection
+---
+layout: "single"
+permalink: /events/2024_talks
+toc: true
+toc_label: "Talks"
+toc_icon: "calendar"
+toc_sticky: true
+title: "Talks"
+---
+ 
+# BOLABuster: Harnessing LLMs for Automating BOLA Detection
 =========================================================================
 
 August 9; 1130-1230
