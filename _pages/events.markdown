@@ -26,6 +26,9 @@ Join us at the AI Village for interactive demonstrations at the intersection of 
 
 At DEF CON 31 AI Village hosted the Generative Red Team (GRT1), the world’s largest, public Large Language Model (LLM) Red Team, in conjunction with other non profit, corporate, and government partners. We brought a taste of model testing to DEF CON and as a first event of its kind much was learned about the models, and about the event. The GRT was a Capture The Flag (CTF) where you found single examples of the model behaving poorly. Hopefully it prepared you for the real thing as this year we’re asking DEF CON for real model evaluations in a “bug” bash. [Read our blog post here for more details.](https://aivillage.org/generative%20red%20team/generative-red-team-2/)
 
+## Talks at DEF CON 32
+
+Please see our [talks page](https://aivillage.org/events/2024_talks)
 
 ## Volunteering
 If you would like to volunteer at events [submit a general volunteer application here.](https://forms.gle/vCrz3zpR8xHCsTtJ8)
