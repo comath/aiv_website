@@ -100,7 +100,24 @@ In this talk I’m going to show you how I bypassed casino AI systems - facial r
 
 1. Harriet Farlow (Mileva Security Labs)
 
+## Day 1 Keynote -- TBD
+
+August 9; 1600-1700
+
 # August 10
+
+## Day 2 Keynote - Code of Ethics: Navigating the Moral Maze of AI-Powered Cybersecurity
+
+August 10; 1000-1100
+
+**Abstract**
+
+As artificial intelligence and machine learning increasingly become the backbone of our cybersecurity infrastructure, we face a new set of ethical challenges that go beyond traditional security concerns. This keynote dives into the critical issues of fairness, transparency, and accountability in AI-driven security systems. We'll explore how biases in training data can lead to discriminatory outcomes in threat detection, potentially targeting certain groups unfairly. The talk will cover real-world cases where AI ethics in cybersecurity have come into question, from facial recognition systems used in surveillance to automated vulnerability scanners that may disproportionately flag certain types of code or developers. Finally, we'll propose a framework for ethical AI development in cybersecurity, emphasizing the need for diverse development teams, rigorous testing for biases, and ongoing audits of AI systems in production. This keynote aims to spark a crucial conversation in the hacker community about our responsibility to ensure that as we push the boundaries of AI in security, we don't lose sight of the human values and ethical principles that should guide our work.
+
+**Authors**
+
+1. Nikki Pope (NVIDIA)
+
 
 ## garak : A Framework for Large Language Model Red Teaming
 
