@@ -30,7 +30,7 @@ Please see our [talks page](https://aivillage.org/events/2024_talks)
 
 <table border="1" bordercolor="020202" style="background-color:FFFFCC" width="100%" cellpadding="3" cellspacing="3">
 <tr><td>Start Time</td><td>Length (Minutes)</td><td>Event/Talk Title</td></tr>
-<tr><td>10:00 AM to 5:00 PM</td><td>All Day</td><td>Participate in the Generativ Red Team (GRT2) event</td></tr>
+<tr><td>10:00 AM to 5:00 PM</td><td>All Day</td><td>Participate in the Generative Red Team (GRT2) event</td></tr>
 <tr><td>10:00 AM to 5:00 PM</td><td>All Day</td><td>Participate in a GRT2 training workshop</td></tr>
 <tr><td>10:00 AM to 5:00 PM</td><td>All Day</td><td>Visit the Deepfake Demo Labs</td></tr>
 <tr><td>10:00 AM to 10:30 AM</td><td>30 Minutes</td><td>Opening Remarks</td></tr>
@@ -46,7 +46,7 @@ Please see our [talks page](https://aivillage.org/events/2024_talks)
 
 <table border="1" bordercolor="020202" style="background-color:FFFFCC" width="100%" cellpadding="3" cellspacing="3">
 <tr><td>Start Time</td><td>Length (Minutes)</td><td>Event/Title</td></tr>
-<tr><td>10:00 AM to 5:00 PM</td><td>All Day</td><td>Participate in the Generativ Red Team (GRT2) event</td></tr>
+<tr><td>10:00 AM to 5:00 PM</td><td>All Day</td><td>Participate in the Generative Red Team (GRT2) event</td></tr>
 <tr><td>10:00 AM to 5:00 PM</td><td>All Day</td><td>Participate in a GRT2 training workshop</td></tr>
 <tr><td>10:00 AM to 5:00 PM</td><td>All Day</td><td>Visit the Deepfake Demo Labs</td></tr>
 <tr><td>10:00 AM to 11:00 AM</td><td>60 Minutes</td><td>Day 2 Keynote Speaker - Nikki Pope</td></tr>
@@ -61,7 +61,7 @@ Please see our [talks page](https://aivillage.org/events/2024_talks)
 
 <table border="1" bordercolor="020202" style="background-color:FFFFCC" width="100%" cellpadding="3" cellspacing="3">
 <tr><td>Start Time</td><td>Length (Minutes)</td><td>Event/Title</td></tr>
-<tr><td>10:00 AM to 12:00 PM</td><td>All Day</td><td>Participate in the Generativ Red Team (GRT2) event</td></tr>
+<tr><td>10:00 AM to 12:00 PM</td><td>All Day</td><td>Participate in the Generative Red Team (GRT2) event</td></tr>
 <tr><td>10:00 AM to 12:00 PM</td><td>All Day</td><td>Participate in a GRT2 training workshop</td></tr>
 <tr><td>10:00 AM to 12:00 PM</td><td>All Day</td><td>Visit the Deepfake Demo Labs</td></tr>
 <tr><td>10:00 AM to 11:00 AM</td><td>60 Minutes</td><td>Photoshop Fantasies</td></tr>
