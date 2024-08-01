@@ -52,7 +52,7 @@ Please see our [talks page](https://aivillage.org/events/2024_talks)
 <tr><td>10:00 AM to 11:00 AM</td><td>60 Minutes</td><td>Day 2 Keynote Speaker - Nikki Pope</td></tr>
 <tr><td>11:00 AM to 11:30 AM</td><td>30 Minutes</td><td>Signing Ceremony</td></tr>
 <tr><td>11:30 AM to 12:30 PM</td><td>60 Minutes</td><td>garak : A Framework for Large Language Model Red Teaming</td></tr>
-<tr><td>1:30 PM to 2:30 PM</td><td>60 Minutes</td><td>RoguePilot: Data Corruption and Leakage in Copilot for Microsoft 365</td></tr>
+<tr><td>1:30 PM to 2:30 PM</td><td>60 Minutes</td><td>ConfusedPilot: Data Corruption and Leakage by Misusing Copilot for Microsoft 365</td></tr>
 <tr><td>2:30 PM to 3:00 PM</td><td>30 Minutes</td><td>Evaluations and Guardrails against Prompt Injection attacks on LLM powered-applications</td></tr>
 <tr><td>8:00 PM</td><td>~Evening</td><td>AI Village and Blue Team Village Pool Party at the Sahara featuring Dunk-a-Fed</td></tr>
 </table>
