@@ -36,6 +36,8 @@ Come ask us anything about the [GRT2](https://grt.aivillage.org/)! There will be
 2. Will Pearce
 3. Jerome Wynne
 4. Sean McGregor
+5. Nicole DeCario
+6. Kent Wilson
  
 ## BOLABuster: Harnessing LLMs for Automating BOLA Detection
 
@@ -256,3 +258,20 @@ Note: this session includes demos of a violent and profane chatbot. Please do no
 **Author**
 
 1. Perry Carpenter (KnowBe4, Inc.)
+
+## Generative Red Team 2 Readout & Acknowledgments  
+
+August 11; 12:00-1:00pm
+
+**Abstract**
+
+We're going over the results of the GRT and giving out some awards for our favorite reports. We want to hear from you about how it went and what you liked. 
+
+**Author**
+
+1. Sven Cattell
+2. Will Pearce
+3. Jerome Wynne
+4. Sean McGregor
+5. Nicole DeCario
+6. Kent Wilson
