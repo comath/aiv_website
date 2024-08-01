@@ -9,6 +9,33 @@ title: "Talks"
 ---
 
 # August 9
+
+## Opening Remarks
+
+August 9; 1030-1130
+
+**Abstract**
+
+**Authors**
+
+1. Sven Cattell
+2. Lauren Putvin
+3. Ravin Kumar
+
+## Generative Red Team 2 Kickoff
+
+August 9; 1030-1130
+
+**Abstract**
+
+Come ask us anything about the [GRT2](https://grt.aivillage.org/)! There will be a short presentation about how to participate and the objectives of the event and then you can ask us anything about it and ML flaws and vulnerabilities. 
+
+**Authors**
+
+1. Sven Cattell
+2. Will Pearce
+3. Jerome Wynne
+4. Sean McGregor
  
 ## BOLABuster: Harnessing LLMs for Automating BOLA Detection
 
@@ -153,6 +180,24 @@ This talk will demonstrate such an attack that we have termed ConfusedPilot beca
 1. Ayush RoyChowdhury (The University of Texas at Austin)
 2. Mulong Luo (The University of Texas at Austin)
 3. Mohit Tiwari (The University of Texas at Austin)
+
+## Bridging the Experience Gap in Machine Learning Security
+
+August 10; 1500-1600
+
+**Abstract**
+
+This panel will explore the critical challenges and opportunities in developing a robust workforce for AI and machine learning (ML) security. As AI systems become increasingly prevalent across industries, the need for skilled professionals who can safeguard these technologies against adversarial attacks and vulnerabilities has never been greater.
+
+A key focus of the discussion will be addressing the significant shortage of practitioners with hands-on experience in securing ML models deployed in real-world adversarial environments. Panelists will examine how this lack of battle-tested expertise impacts the industry's ability to defend against sophisticated attacks and discuss strategies for cultivating this essential skill set.
+
+**Authors**
+Moderated by Kellee Wicker (Wilson Center)
+
+1. Christine Lai (CISA)
+2. David Lo (SMU)
+3. Austin Carson (Seed AI)
+4. Nick Landers (Dreadnode)
 
 
 ## Evaluations and Guardrails against Prompt Injection attacks on LLM powered-applications
