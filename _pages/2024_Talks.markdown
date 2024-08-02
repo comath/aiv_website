@@ -12,7 +12,7 @@ title: "Talks"
 
 ## Opening Remarks
 
-August 9; 1030-1130
+August 9; 1000-1030
 
 **Abstract**
 
