@@ -129,9 +129,25 @@ In this talk I’m going to show you how I bypassed casino AI systems - facial r
 
 1. Harriet Farlow (Mileva Security Labs)
 
-## Day 1 Keynote -- TBD
+## Day 1 Keynote -- Poison, injection, evasion, oh my! Grounding AI security threats in data driven reality 
 
 August 9; 1600-1700
+
+**Abstracy**
+
+Christina will speak to the latest MITRE ATLAS community efforts focused on
+capturing and sharing cross community data on real world AI incidents, expanding the
+community's data on vulnerabilities that can arise when using open-source AI models or
+data, especially for vulnerabilities that fall outside of the scope of CVE/CWE, and
+developing mitigations to defend against these AI security threats and vulnerabilities.
+
+MITRE ATLAS (<atlas.mitre.org>) is a public knowledge base of adversary tactics and
+techniques based on real-world attack observations and realistic demonstrations from
+artificial intelligence (AI) red teams and security groups. There are a growing number of
+vulnerabilities in AI-enabled systems as the incorporation of AI increases the attack
+surfaces of existing systems beyond those of traditional cyberattacks. We developed ATLAS
+to raise community awareness and readiness for these unique threats, vulnerabilities, and
+risks in the broader AI assurance landscape.
 
 # August 10
 
