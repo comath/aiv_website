@@ -17,9 +17,10 @@ This past week, OWASP kicked-off their [OWASP Top 10 for Large Language Model (L
 As part of our conversations, there's been a bit of debate around what's considered a vulnerability and what's considered a feature of how LLMs operate. So I figured now would be a good time to take a stab at building a high-level threat model to suss out these differences and contribute to a greater understanding of LLMs in a security context. I'd also like for this post to act as a starting point for anyone interested in building or deploying their own LLM applications. 
 
 Finally, we’ll use this definition of a vulnerability moving forward:
-```
+
+<b>
 Vulnerability: A weakness in an information system, system security procedures, internal controls, or implementation that could be exploited or triggered by a threat source.
-```
+</b>
 
 ## Data Flow Diagram
 
