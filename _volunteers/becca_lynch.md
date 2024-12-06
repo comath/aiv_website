@@ -4,7 +4,7 @@ last_name: Lynch
 position: Steering Committee
 expertise: AI Red Teaming, Applied ML, Offensive Security Research
 affiliation: NVIDIA
-profile: becca_lynch.jpg
+profile: becca_lynch.jpeg
 bio: true # If you don't want to include a bio, change this to false.
 ---
 
