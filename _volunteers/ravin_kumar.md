@@ -7,10 +7,10 @@ expertise: Applied Generative Modeling # Optional
 affiliation: Google # Optional
 bio: true # If you don't want to include a bio, change this to false.
 ---
+Ravin is a probabilistic programming enthusiast. He brings applied experience as a data scientist at Google with prior experience at companies like SpaceX and Sweetgreen. 
 
-Ravin is security minded statistician and/or data scientist.
-His focus in applied generative modeling.
-Previously he worked at SpaceX and Sweetgreen using Bayesian Statistics to assess and improve orbital rocket launches and optimize avocado preparation (among many other ingredients).
-He now works at Google on large scale generative models,
-with a focus on safety and security.
-He has a masters in Manufacturing Engineering from University of Wisconsin Madison
+Ravin contributes frequently to Open Source projects such as PyMC. He also is an educator, having published textbooks and courses on the topic. 
+
+Previously, Ravin worked at SpaceX and Sweetgreen using Bayesian Statistics to assess and improve orbital rocket launches and optimize avocado preparation (among many other ingredients). He now works on the Labs team at Google on large scale generative models, with a focus on safety and security.
+
+Ravin received his Bachelors and Masters in Engineering from Cal Poly Pomona and University of Wisconsin Madison respectively. 
