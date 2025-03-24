@@ -1,8 +1,8 @@
 ---
 first_name: Rich
 last_name: Harang
-position: CFP Lead, Steering Committee Member
-expertise: Network Intrusion Detection, ML for Offense
+position: Program Chair (2019-2024)
+expertise: Security of AI; Network Security
 affiliation: NVIDIA
 profile: rharang.jpg
 bio: true # If you don't want to include a bio, change this to false.
