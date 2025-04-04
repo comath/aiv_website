@@ -3,7 +3,7 @@ first_name: Will
 last_name: Pearce
 position: CTF Lead, Steering Committee Member
 expertise: ML Threat Detection
-affiliation: NVIDIA
+affiliation: Dreadnode
 profile: cropped-will-131x131.png
 bio: true # If you don't want to include a bio, change this to false.
 ---
