@@ -1,0 +1,410 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&family=Inter:wght@300;400;500;600;700&display=swap');
+
+// DEFCON / Hacker color palette
+$bg-dark: #0a0a0a;
+$bg-primary: #111111;
+$bg-secondary: #1a1a1a;
+$bg-tertiary: #222222;
+$text-primary: #00ff00;
+$text-secondary: #ffffff;
+$text-muted: #888888;
+$accent: #ff0000;
+$accent-secondary: #ffff00;
+$border: #333333;
+$link: #00ffff;
+$link-hover: #00ff00;
+
+// Typography
+$font-mono: 'JetBrains Mono', monospace;
+$font-sans: 'Inter', sans-serif;
+
+// Base styles
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: $font-sans;
+  background: $bg-dark;
+  color: $text-secondary;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+// Typography
+h1, h2, h3, h4, h5, h6 {
+  color: $text-primary;
+  font-family: $font-mono;
+  margin: 1.5em 0 0.75em 0;
+  line-height: 1.2;
+  font-weight: 500;
+}
+
+h1 { font-size: 2.5rem; }
+h2 { font-size: 2rem; }
+h3 { font-size: 1.5rem; }
+h4 { font-size: 1.25rem; }
+
+p {
+  margin: 1em 0;
+}
+
+a {
+  color: $link;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  
+  &:hover {
+    color: $link-hover;
+    text-decoration: underline;
+  }
+}
+
+code {
+  font-family: $font-mono;
+  background: $bg-secondary;
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  color: $text-primary;
+  font-size: 0.9em;
+}
+
+pre {
+  background: $bg-secondary;
+  padding: 1em;
+  border-radius: 5px;
+  overflow-x: auto;
+  border-left: 4px solid $text-primary;
+  
+  code {
+    background: none;
+    padding: 0;
+  }
+}
+
+blockquote {
+  border-left: 4px solid $accent;
+  margin: 1em 0;
+  padding: 0.5em 1em;
+  background: $bg-secondary;
+  font-style: italic;
+}
+
+// Layout
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+// Header
+.site-header {
+  background: $bg-primary;
+  border-bottom: 2px solid $text-primary;
+  padding: 1rem 0;
+  
+  .header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .site-title {
+    font-family: $font-mono;
+    font-size: 1.8rem;
+    color: $text-primary;
+    text-decoration: none;
+    font-weight: 700;
+    
+    &::before {
+      content: ">> ";
+      color: $accent;
+    }
+  }
+  
+  .nav-menu {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 2rem;
+    
+    a {
+      color: $text-secondary;
+      font-family: $font-mono;
+      font-weight: 400;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      transition: all 0.3s ease;
+      
+      &:hover {
+        color: $text-primary;
+        text-decoration: none;
+      }
+      
+      &.active {
+        color: $text-primary;
+        border-bottom: 2px solid $text-primary;
+      }
+    }
+  }
+}
+
+// Main content
+.main-content {
+  padding: 2rem 0;
+  min-height: calc(100vh - 200px);
+}
+
+// Cards
+.card {
+  background: $bg-secondary;
+  border: 1px solid $border;
+  border-radius: 5px;
+  padding: 1.5rem;
+  margin: 1rem 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  
+  &:hover {
+    border-color: $text-primary;
+    box-shadow: 0 6px 12px rgba(0, 255, 0, 0.1);
+  }
+}
+
+// Event styles
+.event-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  padding: 1rem;
+  margin: 1rem 0;
+  background: $bg-secondary;
+  border-left: 4px solid $accent;
+  border-radius: 0 5px 5px 0;
+  
+  .event-date {
+    min-width: 80px;
+    text-align: center;
+    font-family: $font-mono;
+    
+    .event-month {
+      background: $text-primary;
+      color: $bg-dark;
+      padding: 0.25rem;
+      font-size: 0.8rem;
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+    
+    .event-day {
+      background: $bg-tertiary;
+      color: $text-primary;
+      padding: 0.5rem;
+      font-size: 1.5rem;
+      font-weight: 700;
+    }
+  }
+  
+  .event-content {
+    flex: 1;
+    
+    h3 {
+      margin: 0 0 0.5rem 0;
+      color: $text-primary;
+    }
+    
+    .event-location {
+      color: $text-muted;
+      font-size: 0.9rem;
+      margin: 0.25rem 0;
+    }
+    
+    .event-description {
+      color: $text-secondary;
+      margin: 0.5rem 0 0 0;
+    }
+  }
+}
+
+// Blog styles
+.post-list {
+  .post-item {
+    background: $bg-secondary;
+    border: 1px solid $border;
+    border-radius: 5px;
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+    transition: all 0.3s ease;
+    
+    &:hover {
+      border-color: $text-primary;
+      transform: translateY(-2px);
+    }
+    
+    h2 {
+      margin: 0 0 0.5rem 0;
+      
+      a {
+        color: $text-primary;
+        text-decoration: none;
+        
+        &:hover {
+          color: $link-hover;
+        }
+      }
+    }
+    
+    .post-meta {
+      color: $text-muted;
+      font-size: 0.9rem;
+      margin: 0.5rem 0;
+      font-family: $font-mono;
+    }
+    
+    .post-excerpt {
+      color: $text-secondary;
+      margin: 1rem 0 0 0;
+    }
+  }
+}
+
+// Footer
+.site-footer {
+  background: $bg-primary;
+  border-top: 2px solid $text-primary;
+  padding: 2rem 0;
+  margin-top: 3rem;
+  
+  .footer-content {
+    text-align: center;
+    color: $text-muted;
+    font-family: $font-mono;
+    
+    .social-links {
+      margin: 1rem 0;
+      
+      a {
+        color: $text-muted;
+        margin: 0 1rem;
+        transition: color 0.3s ease;
+        
+        &:hover {
+          color: $text-primary;
+        }
+      }
+    }
+  }
+}
+
+// Utility classes
+.text-center { text-align: center; }
+.text-mono { font-family: $font-mono; }
+.text-primary { color: $text-primary; }
+.text-secondary { color: $text-secondary; }
+.text-muted { color: $text-muted; }
+.text-accent { color: $accent; }
+
+.mb-1 { margin-bottom: 1rem; }
+.mb-2 { margin-bottom: 2rem; }
+.mt-1 { margin-top: 1rem; }
+.mt-2 { margin-top: 2rem; }
+
+// Responsive design
+@media (max-width: 768px) {
+  .site-header {
+    .header-content {
+      flex-direction: column;
+      gap: 1rem;
+    }
+    
+    .nav-menu {
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+  }
+  
+  .event-item {
+    flex-direction: column;
+    
+    .event-date {
+      align-self: flex-start;
+    }
+  }
+  
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.5rem; }
+  h3 { font-size: 1.25rem; }
+}
+
+// Terminal-style animations
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+
+.cursor::after {
+  content: "_";
+  animation: blink 1s infinite;
+  color: $text-primary;
+}
+
+// Glitch effect for titles
+.glitch {
+  position: relative;
+  
+  &::before,
+  &::after {
+    content: attr(data-text);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  &::before {
+    animation: glitch-1 0.5s infinite linear alternate-reverse;
+  }
+  
+  &::after {
+    animation: glitch-2 0.5s infinite linear alternate-reverse;
+  }
+}
+
+@keyframes glitch-1 {
+  0% {
+    clip: rect(42px, 9999px, 44px, 0);
+    transform: skew(0.85deg);
+  }
+  5% {
+    clip: rect(12px, 9999px, 59px, 0);
+    transform: skew(0.91deg);
+  }
+  10% {
+    clip: rect(48px, 9999px, 29px, 0);
+    transform: skew(0.15deg);
+  }
+  // ... more keyframes for variety
+}
+
+@keyframes glitch-2 {
+  0% {
+    clip: rect(65px, 9999px, 119px, 0);
+    transform: skew(0.15deg);
+  }
+  5% {
+    clip: rect(52px, 9999px, 74px, 0);
+    transform: skew(0.91deg);
+  }
+  10% {
+    clip: rect(79px, 9999px, 85px, 0);
+    transform: skew(0.85deg);
+  }
+  // ... more keyframes for variety
+}

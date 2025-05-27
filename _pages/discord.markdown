@@ -1,32 +1,178 @@
 ---
-layout: "single"
+layout: default
+title: Discord Community
 permalink: /discord/
-title: "Discord Guide"
 ---
-If you want to join our discord just follow [this link](https://discord.com/invite/GX5fhfT). First thing you have to do is introduce yourself in the #start-here, then someone will give you the villager role.
 
-## Basic Rules
-Please read the code of conduct. We also have the following general rules:
+# Discord Community
 
-1. Stay on topic, particularly in specialized channels; if you have something off-topic to post, take it to General/random
+<div style="text-align: center; margin: 2rem 0;">
+  <h2 style="color: #00ff00;">Join the AI Village Discord</h2>
+  <p style="color: #888; font-size: 1.1rem;">
+    Connect with researchers, hackers, and AI security enthusiasts from around the world.
+  </p>
+  <div style="margin: 2rem 0;">
+    <a href="https://discord.com/invite/GX5fhfT" target="_blank" 
+       style="background: #5865F2; color: white; padding: 1rem 2rem; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 1.1rem;">
+      🎮 Join Discord Server
+    </a>
+  </div>
+</div>
 
-2. NSFW content is not permitted
+---
 
-3. No illegal behavior, no soliciting others to commit illegal acts
+## 🚀 Getting Started
 
-4. No spamming or disrupting the availability of a channel to other participants
+<div class="card" style="background: #1a1a1a; border-left: 4px solid #00ff00;">
+  <h3 style="color: #00ff00; margin-top: 0;">📝 First Steps</h3>
+  <ol style="line-height: 1.8;">
+    <li><strong>Join the server</strong> using the link above</li>
+    <li><strong>Introduce yourself</strong> in the <code>#start-here</code> channel</li>
+    <li><strong>Get the "Villager" role</strong> from a community member</li>
+    <li><strong>Explore channels</strong> and find your interests</li>
+    <li><strong>Participate</strong> in discussions and events</li>
+  </ol>
+  
+  <div style="background: #333; padding: 1rem; border-radius: 5px; margin: 1rem 0;">
+    <p style="margin: 0;"><strong>⚠️ Important:</strong> When you first join, you'll only have access to <code>#start-here</code>. Drop a note introducing yourself, and someone will give you the "Villager" role for full access!</p>
+  </div>
+</div>
 
-5. As with harassment, participants violating these rules may be sanctioned or banned at the discretion of Village organizers without warning.
+---
 
-## #start-here Channel
-When you first join, you won't have any roles, and won't be able to post anywhere but here. Drop a note here, introduce yourself, say “Hi!”, and someone will give you a "Villager" role which will give you access to most of the rest of the channels. Thanks for joining us, and welcome to the community!
+## 📋 Community Guidelines
 
-## ElderVillager Role
-This is for community members that have contributed to the village. Either by giving talks, workshops, or just being active in the channel for a while. ElderVillagers can invite new people to the discord and promote them to Villager to give them full access. Please be sure the new person has introduced themselves to the rest of us too!
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+  
+  <div class="card">
+    <h4 style="color: #ff0000; margin-top: 0;">🚫 Basic Rules</h4>
+    <ul style="margin: 0.5rem 0; line-height: 1.6;">
+      <li>Stay on topic in specialized channels</li>
+      <li>No NSFW content permitted</li>
+      <li>No illegal behavior or solicitation</li>
+      <li>No spamming or channel disruption</li>
+      <li>Follow the AI Village <a href="/conduct/">Code of Conduct</a></li>
+    </ul>
+  </div>
+  
+  <div class="card">
+    <h4 style="color: #ffff00; margin-top: 0;">💬 Communication</h4>
+    <ul style="margin: 0.5rem 0; line-height: 1.6;">
+      <li>Use threads for long discussions</li>
+      <li>Take off-topic conversations to #general</li>
+      <li>Be respectful and constructive</li>
+      <li>Help newcomers get oriented</li>
+      <li>Share knowledge and resources</li>
+    </ul>
+  </div>
 
-## Officer Role
-This is for people who have organized substantial portions of an event, or other content for the village. They are well trusted by the community and have moderation powers. If you want to make a new reading group, or something reach out to someone with this role and they can help out.
+</div>
 
-## Board Role
-This role is for our board members, and has full moderation powers. They are the board members of the non-profit entity that manages the village, and are the leaders of the community. The buck stops with them. If there is any harassment or anything that violates our please contact them, or an officer. 
+---
 
+## 🏆 Community Roles
+
+<div class="role-hierarchy" style="margin: 2rem 0;">
+  
+  <div class="role-card" style="background: #1a1a1a; padding: 1rem; margin: 1rem 0; border-left: 4px solid #888; border-radius: 0 5px 5px 0;">
+    <h4 style="color: #888; margin: 0 0 0.5rem 0;">👤 Villager</h4>
+    <p style="margin: 0; color: #ccc;">Basic member role with access to most channels. Granted after introduction in #start-here.</p>
+  </div>
+  
+  <div class="role-card" style="background: #1a1a1a; padding: 1rem; margin: 1rem 0; border-left: 4px solid #00ff00; border-radius: 0 5px 5px 0;">
+    <h4 style="color: #00ff00; margin: 0 0 0.5rem 0;">⭐ ElderVillager</h4>
+    <p style="margin: 0; color: #ccc;">Active community members who have contributed talks, workshops, or sustained participation. Can invite new members and promote to Villager role.</p>
+  </div>
+  
+  <div class="role-card" style="background: #1a1a1a; padding: 1rem; margin: 1rem 0; border-left: 4px solid #ffff00; border-radius: 0 5px 5px 0;">
+    <h4 style="color: #ffff00; margin: 0 0 0.5rem 0;">🛡️ Officer</h4>
+    <p style="margin: 0; color: #ccc;">Community leaders who have organized substantial events or content. Have moderation powers and can help establish new initiatives.</p>
+  </div>
+  
+  <div class="role-card" style="background: #1a1a1a; padding: 1rem; margin: 1rem 0; border-left: 4px solid #ff0000; border-radius: 0 5px 5px 0;">
+    <h4 style="color: #ff0000; margin: 0 0 0.5rem 0;">👑 Board</h4>
+    <p style="margin: 0; color: #ccc;">AI Village board members with full moderation powers. Contact for harassment issues or code of conduct violations.</p>
+  </div>
+
+</div>
+
+---
+
+## 🎯 Popular Channels
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin: 2rem 0;">
+  
+  <div class="card">
+    <h4 style="color: #00ff00; margin-top: 0;">#general</h4>
+    <p>General discussion and off-topic conversations</p>
+  </div>
+  
+  <div class="card">
+    <h4 style="color: #00ff00; margin-top: 0;">#research</h4>
+    <p>AI security research discussions and paper reviews</p>
+  </div>
+  
+  <div class="card">
+    <h4 style="color: #00ff00; margin-top: 0;">#events</h4>
+    <p>Announcements and discussions about upcoming events</p>
+  </div>
+  
+  <div class="card">
+    <h4 style="color: #00ff00; margin-top: 0;">#tools-and-code</h4>
+    <p>Sharing tools, code, and technical resources</p>
+  </div>
+  
+  <div class="card">
+    <h4 style="color: #00ff00; margin-top: 0;">#job-board</h4>
+    <p>AI security job postings and career discussions</p>
+  </div>
+  
+  <div class="card">
+    <h4 style="color: #00ff00; margin-top: 0;">#ctf-discussion</h4>
+    <p>CTF announcements, team formation, and writeups</p>
+  </div>
+
+</div>
+
+---
+
+## 📅 Regular Events
+
+<div class="events-grid" style="margin: 2rem 0;">
+  
+  <div class="card" style="text-align: center;">
+    <h4 style="color: #ffff00; margin-top: 0;">📚 Hacker Journal Club</h4>
+    <p style="color: #888; font-family: 'JetBrains Mono', monospace;">Wednesdays at 5 PM PST / 8 PM EST</p>
+    <p>Discuss academic papers with industry perspective, covering everything from ML security to policy.</p>
+  </div>
+  
+  <div class="card" style="text-align: center;">
+    <h4 style="color: #ffff00; margin-top: 0;">🔒 Privacy & Ethics Journal Club</h4>
+    <p style="color: #888; font-family: 'JetBrains Mono', monospace;">Tuesdays at 5 PM PST / 8 PM EST</p>
+    <p>Interdisciplinary analysis of AI systems from theoretical and practical perspectives.</p>
+  </div>
+
+</div>
+
+<div style="background: #1a1a1a; padding: 1.5rem; border-radius: 5px; border-left: 4px solid #00ffff; margin: 2rem 0;">
+  <h4 style="color: #00ffff; margin-top: 0;">📺 Streaming on Twitch</h4>
+  <p>Our journal clubs and special events are often streamed live! Follow us for notifications when we go live.</p>
+  <p style="margin-bottom: 0;">
+    <a href="#" style="color: #9146FF; font-weight: bold;">🟣 Follow on Twitch</a>
+  </p>
+</div>
+
+---
+
+## ❓ Need Help?
+
+<div style="background: #1a1a1a; padding: 1.5rem; border-radius: 5px; border-left: 4px solid #ff0000;">
+  <h4 style="color: #ff0000; margin-top: 0;">🆘 Support & Issues</h4>
+  <p>If you experience harassment or have concerns about community behavior:</p>
+  <ul>
+    <li><strong>Contact Officers or Board members</strong> directly via DM</li>
+    <li><strong>Use the server reporting system</strong> for serious issues</li>
+    <li><strong>Remember:</strong> We have zero tolerance for harassment</li>
+  </ul>
+  <p style="margin-bottom: 0;">Our community is dedicated to providing a safe and welcoming environment for everyone.</p>
+</div>
