@@ -40,4 +40,53 @@ layout: default
       <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
         <a href="/discord/" style="color: #00ffff;">Join our Discord</a>
         <span style="color: #666;">•</span>
-        <a href="https://forms.gle/vCrz3zpR8xHCsTtJ8" target="_blank" style="color: #00ffff;">Volunteer Application
+        <a href="https://forms.gle/vCrz3zpR8xHCsTtJ8" target="_blank" style="color: #00ffff;">Volunteer Application</a>
+        <span style="color: #666;">•</span>
+        <a href="/events/" style="color: #00ffff;">All Events</a>
+      </div>
+    </div>
+    
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem; margin-top: 2rem;">
+      
+      <div class="event-navigation">
+        {% assign events = site.events | sort: 'date' %}
+        {% assign current_index = nil %}
+        {% for event in events %}
+          {% if event.url == page.url %}
+            {% assign current_index = forloop.index0 %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+        
+        {% if current_index %}
+          {% assign prev_index = current_index | minus: 1 %}
+          {% assign next_index = current_index | plus: 1 %}
+          
+          {% if prev_index >= 0 %}
+            {% assign prev_event = events[prev_index] %}
+            <a href="{{ prev_event.url }}" style="color: #00ffff;">
+              ← {{ prev_event.title | truncate: 30 }}
+            </a>
+          {% endif %}
+          
+          {% if prev_index >= 0 and next_index < events.size %}
+            <span style="color: #666; margin: 0 1rem;">|</span>
+          {% endif %}
+          
+          {% if next_index < events.size %}
+            {% assign next_event = events[next_index] %}
+            <a href="{{ next_event.url }}" style="color: #00ffff;">
+              {{ next_event.title | truncate: 30 }} →
+            </a>
+          {% endif %}
+        {% endif %}
+      </div>
+      
+      <div class="event-share">
+        <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url }}&text={{ page.title | uri_escape }}&via=aivillage_dc" 
+           target="_blank" style="color: #1DA1F2; margin: 0 0.5rem;">Share Event</a>
+      </div>
+      
+    </div>
+  </footer>
+</article>

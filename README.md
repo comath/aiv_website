@@ -34,3 +34,172 @@ Make sure to include the following in the front-matter of the markdown file:
 - profile: filename of the profile picture 
 - bio: "true/false"
 Add a bio in the body of the markdown file if bio: true.
+
+## 📁 Site Structure
+
+```
+├── _config.yml          # Jekyll configuration
+├── _layouts/            # Page templates
+│   ├── default.html     # Base layout
+│   ├── post.html        # Blog post layout  
+│   └── event.html       # Event page layout
+├── _posts/              # Blog posts
+├── _events/             # Event pages
+├── _volunteers/         # Team member profiles
+├── assets/
+│   └── css/
+│       └── main.scss    # Main stylesheet
+├── index.markdown       # Homepage
+├── events.markdown      # Events listing
+├── blog.markdown        # Blog listing
+├── leadership.markdown  # Team page
+├── discord.markdown     # Discord community
+└── conduct.markdown     # Code of conduct
+```
+
+## 🎨 Styling & Theme
+
+The site uses a dark, terminal-inspired theme with:
+
+- **Colors**: Green (#00ff00) primary, red (#ff0000) accents, yellow (#ffff00) highlights
+- **Fonts**: JetBrains Mono for headers/code, Inter for body text
+- **Aesthetic**: DEFCON/hacker conference vibes with terminal-style elements
+
+### Key CSS Classes
+
+- `.card` - Content cards with hover effects
+- `.event-item` - Event listing components  
+- `.text-mono` - Monospace font utility
+- `.glitch` - Glitch text effect
+- `.cursor` - Blinking cursor animation
+
+## 📝 Content Management
+
+### Adding Blog Posts
+
+Create new files in `_posts/` following the naming convention:
+```
+YYYY-MM-DD-title.md
+```
+
+Example frontmatter:
+```yaml
+---
+layout: post
+title: "Your Post Title"
+author: "Author Name"
+date: 2024-01-15 09:00:00 +0900
+category: "AI Security"
+description: "Brief description of the post"
+---
+```
+
+### Adding Events
+
+Create new files in `_events/` with:
+
+```yaml
+---
+title: "Event Name"
+date: 2024-08-15
+description: "Event description"
+location: "City, State"
+layout: event
+---
+```
+
+### Adding Team Members
+
+Create files in `_volunteers/` with:
+
+```yaml
+---
+first_name: "First"
+last_name: "Last"  
+position: "Role Title"
+expertise: "Area of expertise"
+affiliation: "Company/Organization"
+profile: "photo.jpg"  # Place in volunteers/profiles/
+bio: true
+---
+
+Bio content goes here...
+```
+
+## 🛠️ Customization
+
+### Colors
+
+Edit the SCSS variables in `assets/css/main.scss`:
+
+```scss
+$bg-dark: #0a0a0a;
+$text-primary: #00ff00;
+$accent: #ff0000;
+// etc.
+```
+
+### Navigation
+
+Update the navigation menu in `_layouts/default.html`:
+
+```html
+<nav class="nav-menu">
+  <a href="/">Home</a>
+  <a href="/events/">Events</a>
+  <!-- Add more links -->
+</nav>
+```
+
+### Site Configuration
+
+Modify `_config.yml` for:
+- Site title and description
+- Social media links  
+- SEO settings
+- Plugin configuration
+
+## 🚀 Deployment
+
+### GitHub Pages
+
+1. Push to GitHub repository
+2. Go to Settings → Pages
+3. Select source branch (usually `main`)
+4. Site will be available at `https://username.github.io/repository-name`
+
+### Custom Domain
+
+1. Add `CNAME` file with your domain
+2. Configure DNS settings
+3. Enable HTTPS in GitHub Pages settings
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Test locally with `bundle exec jekyll serve`
+5. Submit a pull request
+
+### Content Guidelines
+
+- Use the established dark theme colors
+- Keep the hacker/security aesthetic
+- Test on mobile devices
+- Optimize images before adding
+- Follow existing content structure
+
+## 📄 License
+
+[Add your license information here]
+
+## 🆘 Support
+
+- Join our [Discord](https://discord.com/invite/GX5fhfT)
+- Create an issue for bugs or feature requests
+- Check existing documentation and issues first
+
+---
+
+Built with ❤️ by the AI Village community for hackers, researchers, and AI security enthusiasts worldwide.
